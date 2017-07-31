@@ -5,6 +5,8 @@ categories: Copywriting
 description: 中文文案排版指北（简体中文版）。
 keywords: 中文文案排版指北
 ---
+* content
+{:toc}
 
 GitHub repository: [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)
 
@@ -17,10 +19,6 @@ Other languages:
 
 -----
 
-**目录**
-
-* TOC
-{:toc}
 
 ## 空格
 
@@ -281,3 +279,5 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 - [全角和半角 - 维基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 - [引号 - 维基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 - [疑问惊叹号 - 维基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
+
+

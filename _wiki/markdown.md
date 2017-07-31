@@ -1,14 +1,12 @@
 ---
-layout: wiki
+layout: page
 title: Markdown
 categories: Markdown
 description: Markdown 常用语法示例。
 keywords: Markdown
 ---
 
-**目录**
-
-* TOC
+* content
 {:toc}
 
 ### 超链接
@@ -142,3 +140,5 @@ print 'Hello, World!'
 This is a text with footnote[^1].
 
 [^1]: Here is the footnote 1 definition.
+
+
