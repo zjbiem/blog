@@ -1,0 +1,131 @@
+<ol>
+  <li>本地不能访问</li>
+</ol>
+
+<p>问题描述：</p>
+
+<p>在浏览器中不能查看本地效果</p>
+
+<p>http://localhost:4000
+解决方法：</p>
+
+<p>检查_config.yml配置文件是否需要修改</p>
+
+<ol>
+  <li>Jekyll3.0不能编译</li>
+</ol>
+
+<p>问题描述：</p>
+
+<p>Deprecation: You appear to have pagination turned on, but you haven’t included the jekyll-paginate gem. Ensure you have gems: [jekyll-paginate] in your configuration file.
+故障原因：</p>
+
+<p>jekyll自3.0版本以后不再支持相对路径，统一用绝对路径。</p>
+
+<p>解决方法：</p>
+
+<p>（1）打开_config.yml文件，将relative_permailinks:true注释掉;</p>
+
+<p>在结尾添加</p>
+
+<p>gems: [jekyll-paginate]
+保存；</p>
+
+<p>（2）接下来安装缺失的插件：</p>
+
+<p>gem install pygments.rb</p>
+
+<p>gem install redcarpet
+现在编译Jekyll build</p>
+
+<ol>
+  <li>下载认证文件</li>
+</ol>
+
+<p>curl http://curl.haxx.se/ca/cacert.pem -o cacert.pem
+设置环境变量，重新安装</p>
+
+<ol>
+  <li>：</li>
+</ol>
+
+<p>Dependency Error: Yikes! It looks like you don’t have bundler or one of its dependencies installed. In order to use Jekyll as currently configured, you’ll need to install this gem. The full error message from Ruby is: ‘cannot load such file – bundler’ If you run into trouble, you can find helpful resources at https://jekyllrb.com/help/!
+jekyll 3.5.0 | Error:  bundler
+安装bundler</p>
+
+<p>gem install bundler</p>
+<ol>
+  <li>：</li>
+</ol>
+
+<p>Could not find gem ‘minima (~&gt; 2.0) x64-mingw32’ in any of the gem sources listed in your Gemfile. (Bundler::GemNotFound)
+安装Ruby环境</p>
+
+<p>gem install minima</p>
+<ol>
+  <li>
+    <p>：</p>
+
+    <p>Deprecation: The ‘gems’ configuration option has been renamed to ‘plugins’. Please update your config file accordingly.
+配置文件_config.yml中，使用了 plugins 的配置项，用 gems 替换 plugins 即可。</p>
+  </li>
+  <li>
+    <p>：</p>
+
+    <p>Configuration file: /_config.yml
+         Source: .
+    Destination: ./_site
+   Generating…
+                 done.
+  Please add the following to your Gemfile to avoid polling for changes:
+ gem ‘wdm’, ‘&gt;= 0.1.0’ if Gem.win_platform?
+ Auto-regeneration: enabled for ‘.’
+Configuration file: /_config.yml
+jekyll 2.4.0 | Error:  Permission denied - bind(2) for 127.0.0.1:4000
+使用 netstat 命令查看各种端口的被进程的占用情况，通过</p>
+  </li>
+</ol>
+
+<p>tasklist /svc /FI “PID eq 11476”
+查看具体哪一个进程占用，也可借助于第三方工具完成。</p>
+
+<ol>
+  <li>缺少相应的模块
+```</li>
+</ol>
+
+<p>E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler/resolver.rb:366:in <code class="highlighter-rouge">block in verify_gemfile_dependencies_a
+re_found!': Could not find gem 'jekyll-sitemap x86-mingw32' in any of the gem sources listed in your Gemfile or availabl
+e on this machine. (Bundler::GemNotFound)
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler/resolver.rb:341:in </code>each’
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler/resolver.rb:341:in <code class="highlighter-rouge">verify_gemfile_dependenci
+es_are_found!'
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler/resolver.rb:199:in </code>start’
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler/resolver.rb:181:in <code class="highlighter-rouge">resolve'
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler/definition.rb:250:in </code>resolve’
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler/definition.rb:174:in <code class="highlighter-rouge">specs'
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler/definition.rb:233:in </code>specs_for’
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler/definition.rb:222:in <code class="highlighter-rouge">requested_specs'
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler/runtime.rb:118:in </code>block in definition_method
+‘
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler/runtime.rb:19:in <code class="highlighter-rouge">setup'
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib/bundler.rb:99:in </code>setup’
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/jekyll-3.2.1/lib/jekyll/plugin_manager.rb:36:in <code class="highlighter-rouge">require_from_bundler'
+        from E:/Ruby23/lib/ruby/gems/2.3.0/gems/jekyll-3.2.1/exe/jekyll:9:in </code>&lt;top (required)&gt;’
+        from E:/Ruby23/bin/jekyll:23:in <code class="highlighter-rouge">load'
+        from E:/Ruby23/bin/jekyll:23:in </code>&lt;main&gt;’</p>
+
+<p>```</p>
+
+<p>则因为缺少相应的模块，根据提示</p>
+<blockquote>
+  <p>“Could not find gem ‘jekyll-sitemap x86-mingw32’ in any of the gem sources listed”</p>
+</blockquote>
+
+<p>安装相应模块即可。即输入</p>
+<blockquote>
+  <p>gem install jekyll-sitemap</p>
+</blockquote>
+
+<p>以此类推，如果遇到类似错误，则缺少什么模块安装什么模块即可。</p>
+
