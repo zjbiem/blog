@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Jul 2017 15:16:13 +0800</pubDate>
-    <lastBuildDate>Mon, 31 Jul 2017 15:16:13 +0800</lastBuildDate>
+    <pubDate>Wed, 02 Aug 2017 09:36:16 +0800</pubDate>
+    <lastBuildDate>Wed, 02 Aug 2017 09:36:16 +0800</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -19,6 +19,12 @@
         <pubDate>Thu, 27 Jul 2017 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2017/07/27/github-fork-update/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/07/27/github-fork-update/</guid>
+        
+        <category>github,</category>
+        
+        <category>fork</category>
+        
+        <category>update</category>
         
         
         <category>GitHub</category>
@@ -37,6 +43,12 @@
         <link>http://localhost:4000/2017/07/26/Chrome-devtools/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/07/26/Chrome-devtools/</guid>
         
+        <category>chrome,</category>
+        
+        <category>Chrome</category>
+        
+        <category>devtools</category>
+        
         
         <category>前端工具</category>
         
@@ -53,12 +65,18 @@
         <link>http://localhost:4000/2017/07/26/7-retina-1pxborder/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/07/26/7-retina-1pxborder/</guid>
         
-        <category>JavaScript</category>
+        <category>JavaScript,</category>
+        
+        <category>Retina,</category>
+        
+        <category>移动前端,</category>
+        
+        <category>CSS,</category>
+        
+        <category>border</category>
         
         
         <category>移动前端</category>
-        
-        <category>CSS</category>
         
       </item>
     
@@ -74,29 +92,10 @@
         <link>http://localhost:4000/2017/07/26/19JavaScript/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/07/26/19JavaScript/</guid>
         
-        
         <category>JavaScript</category>
         
-      </item>
-    
-      <item>
-        <title>Jekyll 搭建静态博客</title>
-        <description>
-&lt;blockquote&gt;
-  一直以来都想搭建一个自己的博客，但是近半年做项目太忙，再加上教研室的网络很坑爹，所以也一直没顾得上。之前用过 WordPress 托管在免费的京东云擎上，但是速度太慢。在知乎上看到一些相关的内容，于是选择了在github上用jekyll搭建博客。
-&lt;/blockquote&gt;
-
-</description>
-        <pubDate>Mon, 16 Feb 2015 06:14:54 +0800</pubDate>
-        <link>http://localhost:4000/2015/02/15/create-my-blog-with-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/02/15/create-my-blog-with-jekyll/</guid>
         
-        <category>jekyll</category>
-        
-        <category>RubyGems</category>
-        
-        
-        <category>jekyll</category>
+        <category>JavaScript</category>
         
       </item>
     

@@ -119,6 +119,8 @@
                 
                     
                 
+                    
+                
             </ul>
         </nav>
     </div>
@@ -151,9 +153,7 @@
   <i class="fa fa-th-list"></i>
   
     
-        <a href="/category/#移动前端" title="Category: 移动前端" rel="category">移动前端</a>&nbsp;
-    
-        <a href="/category/#CSS" title="Category: CSS" rel="category">CSS</a>
+        <a href="/category/#移动前端" title="Category: 移动前端" rel="category">移动前端</a>
     
   
 
@@ -170,8 +170,20 @@
   <i class="fa fa-tags"></i>
   
     
-        <!--a href="/tag/#JavaScript" title="Tag: JavaScript" rel="tag">JavaScript</a-->
-        <a href="/tag/#JavaScript" title="Tag: JavaScript" rel="tag">JavaScript</a>
+        <!--a href="/tag/#JavaScript%2C" title="Tag: JavaScript," rel="tag">JavaScript,</a-->
+        <a href="/tag/#JavaScript," title="Tag: JavaScript," rel="tag">JavaScript,</a>&nbsp;
+    
+        <!--a href="/tag/#Retina%2C" title="Tag: Retina," rel="tag">Retina,</a-->
+        <a href="/tag/#Retina," title="Tag: Retina," rel="tag">Retina,</a>&nbsp;
+    
+        <!--a href="/tag/#%E7%A7%BB%E5%8A%A8%E5%89%8D%E7%AB%AF%2C" title="Tag: 移动前端," rel="tag">移动前端,</a-->
+        <a href="/tag/#移动前端," title="Tag: 移动前端," rel="tag">移动前端,</a>&nbsp;
+    
+        <!--a href="/tag/#CSS%2C" title="Tag: CSS," rel="tag">CSS,</a-->
+        <a href="/tag/#CSS," title="Tag: CSS," rel="tag">CSS,</a>&nbsp;
+    
+        <!--a href="/tag/#border" title="Tag: border" rel="tag">border</a-->
+        <a href="/tag/#border" title="Tag: border" rel="tag">border</a>
     
   
 
@@ -573,11 +585,41 @@ if (testElem.offsetHeight == 1) {
         
             
             
-        
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
             
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
             
-        
-            
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
             
         
             
@@ -585,7 +627,50 @@ if (testElem.offsetHeight == 1) {
                 
                     
                 
+                    
+                
+                    
+                
+                    
+                
+                    
+                
             
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+            
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+            
+        
+            
+            
+                
+                    
+                
+                    
+                
+                    
+                
+                    
                 
                     
                 
@@ -699,7 +784,18 @@ if (testElem.offsetHeight == 1) {
 
     <script src=" /js/main.js " charset="utf-8"></script>
     <script src=" /js/smooth-scroll.min.js " charset="utf-8"></script>
+    <script src="/js/jekyll-search.js" type="text/javascript"></script>
     <script type="text/javascript">
+        SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: '/search.json',
+            searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+            noResultsText: 'No results found',
+            limit: 10,
+            fuzzy: false,
+            exclude: ['Welcome']
+        })
       smoothScroll.init({
         speed: 500, // Integer. How fast to complete the scroll in milliseconds
         easing: 'easeInOutCubic', // Easing pattern to use

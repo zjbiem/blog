@@ -7,6 +7,9 @@ layout: default
         <!--<h1>Welcome to HyG's Blog!</h1>-->
         <!--<small>这里记录着我的前端学习之路</small>-->
         <!--<hr>-->
+        <div class="searchBoxIndex">
+            {% include search.html %}
+        </div>
         <ul>
             {% for post in paginator.posts %}
               <li>

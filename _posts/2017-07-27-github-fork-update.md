@@ -1,9 +1,9 @@
 ---
 layout: post
 title: github上fork了别人的项目后，再同步更新别人的提交
-categories: [GitHub]
+categories: GitHub
 description: github fork update
-keywords: github, fork update
+tags: github, fork update
 ---
 * content
 {:toc}

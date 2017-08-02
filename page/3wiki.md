@@ -8,6 +8,9 @@ type: page
 
 * content
 {:toc}
+<div class="searchBoxIndex">
+            {% include search.html %}
+        </div>
 ## wiki
 {% for wiki in site.wiki %}
 {% if wiki.title != "Wiki Template" %}
