@@ -3,7 +3,7 @@ layout: post
 title: github上fork了别人的项目后，再同步更新别人的提交
 categories: GitHub
 description: github fork update
-tags: github, fork update
+tags: GitHub fork
 ---
 * content
 {:toc}

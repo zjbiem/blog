@@ -3,7 +3,7 @@ layout: post
 title: 7种方法解决移动端Retina屏幕1px边框问题
 categories: 移动前端
 description: JavaScript
-tags: JavaScript, Retina, 移动前端, CSS, border
+tags: JavaScript Retina 移动前端 CSS border
 ---
 * content
 {:toc}

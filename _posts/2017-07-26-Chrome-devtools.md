@@ -3,7 +3,7 @@ layout: post
 title: 如何用好 Chrome devtools
 categories: 前端工具
 description: Chrome devtools
-tags: chrome, Chrome devtools
+tags: chrome Chrome devtools
 ---
 * content
 {:toc}

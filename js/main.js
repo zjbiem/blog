@@ -57,7 +57,6 @@
 }());
 
 //////////////////////////scrollPos//////////////////////////////
-// var $navs = $('content-side a'),          // 导航
 var $navs = document.getElementById('content-side').querySelectorAll('a'),          // 导航
     $sections = document.querySelector('.left').querySelectorAll('h1,h2,h3'),       // 模块
     $window = window,
