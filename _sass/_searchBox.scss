@@ -1,18 +1,25 @@
 .page {
   .searchBox {
+    position: relative;
     margin-bottom: 10px;
     padding: 2px;
+    .searchBtn {
+      position: absolute;
+      top: 14px;
+      left: 14px;
+      color: #d2c335;
+    }
     input {
       width: 100%;
       font-size: 1.2rem;
       box-sizing: border-box;
-      padding: 5px;
+      padding: 5px 5px 5px 35px;
       border: none;
       border-bottom: 2px solid #e6db74;
       border-radius: 10px;
       outline: none;
-      height: 3rem;
-      line-height: 3rem;
+      height: 2.4rem;
+      line-height: 2.4rem;
       background-color: rgba(230, 219, 116, 0.14);
     }
     ul {
