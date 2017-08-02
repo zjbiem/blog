@@ -156,8 +156,15 @@
       padding-right: 10px;
       line-height: 1.8;
       padding-left: 35px;
-      ul {
-        padding-left: 20px;
+      li {
+        a {
+          border-radius: 4px;
+          padding: 3px;
+          &.current {
+            color: white;
+            background-color: rgba(69, 157, 245, 0.9);
+          }
+        }
       }
     }
   }
@@ -175,9 +182,11 @@
   }
 
 }
+
 @media screen and (min-width: 770px) {
 
 }
+
 @media screen and (max-width: 770px) {
   .page {
     width: 95%;
