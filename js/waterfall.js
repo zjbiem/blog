@@ -14,19 +14,19 @@
      */
   var demoContent = [
     {
-      demo_link: 'http://likonion.club/demoSite/vux-demo/index.html#/',
+      demo_link: 'http://likonion.club/vux-demo/dist/index.html#/',
       img_link: 'https://github.com/likonion/vux-demo/raw/master/static/QQ20170803-164135.png',
       code_link: 'https://github.com/likonion/vux-demo.git',
       title: 'vux-demo',
       core_tech: 'VUE VUX',
       description: '基于VUE构建，VUE UI控件的使用'
     }, {
-      demo_link: 'http://gaohaoyang.github.io/test/headerTransition/',
-      img_link: 'https://ooo.0o0.ooo/2016/06/20/5768c1597d1fe.png',
-      code_link: 'https://github.com/Gaohaoyang/test/tree/master/headerTransition',
-      title: 'Header Transition 渐变动画',
-      core_tech: 'jQuery BootStrap CSS3',
-      description: '花费不到半小时帮师兄做了一个简单的 CSS3 动画效果，当页面滚动到指定距离时，header 区的背景色由透明变为蓝色。仿照了网站 <a href ="https://quorrajs.org/">https://quorrajs.org/</a> 的 Header 区动画效果。'
+      demo_link: 'http://likonion.club/chatDefault/dist/index.html#/',
+      img_link: 'https://github.com/likonion/chatDefault/raw/master/static/default.png',
+      code_link: 'https://github.com/likonion/chatDefault.git',
+      title: 'chatDefault',
+      core_tech: 'vue2 + vuex + vue-router + webpack + ES6/7 + mockjs + sass',
+      description: '基于VUE的一个客服界面演示，练习'
     }, {
       demo_link: 'http://gaohaoyang.github.io/mask-fade-out/',
       img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/demo-fade-out.png',
