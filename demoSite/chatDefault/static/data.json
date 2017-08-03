@@ -1,0 +1,634 @@
+{
+  "user": {
+    "state": {
+      "online": true,
+      "busy": false,
+      "offline": false
+    },
+    "acctiveUserIndex": null,
+    "item": [
+      {
+        "name": "周杰伦",
+        "noread": 1,
+        "online": true,
+        "star": true,
+        "blacklist": true,
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-5-6",
+            "time": "12:01:01",
+            "txt": "你好!"
+          },
+          {
+            "type": "service",
+            "date": "2016-5-6",
+            "time": "12:02:01",
+            "txt": "你好！请问有什么能帮你？"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-5-6",
+            "time": "12:03:01",
+            "txt": "我想问下你的工作时间"
+          },
+          {
+            "type": "service",
+            "date": "2016-5-6",
+            "time": "12:04:01",
+            "txt": "你好！我们是7天24小时服务的。"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-5-6",
+            "time": "12:05:01",
+            "txt": "你们好厉害，好敬业！"
+          },
+          {
+            "type": "service",
+            "date": "2016-5-6",
+            "time": "12:07:01",
+            "txt": "为你们服务是我的荣幸！"
+          }
+        ]
+      },
+      {
+        "name": "张惠妹",
+        "noread": 0,
+        "online": true,
+        "star": false,
+        "blacklist": false,
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-6-9",
+            "time": "13:21:01",
+            "txt": "有在吗？"
+          },
+          {
+            "type": "service",
+            "date": "2016-6-9",
+            "time": "13:22:01",
+            "txt": "在的，请问有什么可以帮到你呢？"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-6-9",
+            "time": "13:23:01",
+            "txt": "我想知道厦门的天气情况"
+          },
+          {
+            "type": "service",
+            "date": "2016-6-9",
+            "time": "13:24:01",
+            "txt": "谢谢你的等待，厦门的天气很好！"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-6-9",
+            "time": "13:25:01",
+            "txt": "好的，非常感谢！"
+          }
+        ]
+      },
+      {
+        "name": "迪丽热巴",
+        "noread": 3,
+        "online": true,
+        "star": false,
+        "blacklist": false,
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-6-2",
+            "time": "13:21:01",
+            "txt": "可不可以帮我一下？"
+          },
+          {
+            "type": "service",
+            "date": "2016-6-2",
+            "time": "13:22:01",
+            "txt": "你好！请问你需要什么帮助？"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-6-2",
+            "time": "13:23:01",
+            "txt": "我想知道厦门的天气情况"
+          },
+          {
+            "type": "service",
+            "date": "2016-6-2",
+            "time": "13:24:01",
+            "txt": "谢谢你的等待，厦门的天气很好！"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-6-2",
+            "time": "13:25:01",
+            "txt": "你们真厉害！"
+          }
+        ]
+      },
+      {
+        "name": "范迪塞尔",
+        "noread": 6,
+        "online": true,
+        "star": true,
+        "blacklist": false,
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-10-22",
+            "time": "13:21:01",
+            "txt": "hello,can you help me？"
+          },
+          {
+            "type": "service",
+            "date": "2016-10-22",
+            "time": "13:22:01",
+            "txt": "你好！请问你需要什么帮助？"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-10-22",
+            "time": "13:23:01",
+            "txt": "我想知道厦门的天气情况"
+          },
+          {
+            "type": "service",
+            "date": "2016-10-22",
+            "time": "13:24:01",
+            "txt": "谢谢你的等待，厦门的天气很好！"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-10-22",
+            "time": "1:25:01",
+            "txt": "you good！"
+          }
+        ]
+      },
+      {
+        "name": "刘德华",
+        "noread": 0,
+        "online": true,
+        "star": false,
+        "blacklist": false,
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-9-18",
+            "time": "13:21:01",
+            "txt": "天下无贼？"
+          },
+          {
+            "type": "service",
+            "date": "2016-9-18",
+            "time": "13:22:01",
+            "txt": "你好！请问你需要什么帮助？"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-9-18",
+            "time": "13:23:01",
+            "txt": "我想知道厦门的天气情况"
+          },
+          {
+            "type": "service",
+            "date": "2016-9-18",
+            "time": "13:24:01",
+            "txt": "谢谢你的等待，厦门的天气很好！"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-9-18",
+            "time": "13:25:01",
+            "txt": "世界和平！"
+          }
+        ]
+      },
+      {
+        "name": "梁朝伟",
+        "noread": 3,
+        "online": false,
+        "star": false,
+        "blacklist": false,
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-8-6",
+            "time": "13:21:01",
+            "txt": "无间道？"
+          },
+          {
+            "type": "service",
+            "date": "2016-8-6",
+            "time": "13:22:01",
+            "txt": "你好！请问你需要什么帮助？"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-8-6",
+            "time": "13:23:01",
+            "txt": "我想知道厦门的天气情况"
+          },
+          {
+            "type": "service",
+            "date": "2016-8-6",
+            "time": "13:24:01",
+            "txt": "谢谢你的等待，厦门的天气很好！"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-8-6",
+            "time": "13:25:01",
+            "txt": "欢乐颂！"
+          }
+        ]
+      },
+      {
+        "name": "谢霆锋",
+        "noread": 0,
+        "online": false,
+        "star": false,
+        "blacklist": false,
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-11-7",
+            "time": "13:21:01",
+            "txt": "新警察故事？"
+          },
+          {
+            "type": "service",
+            "date": "2016-11-7",
+            "time": "13:22:01",
+            "txt": "你好！请问你需要什么帮助？"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-11-7",
+            "time": "13:23:01",
+            "txt": "我想知道厦门的天气情况"
+          },
+          {
+            "type": "service",
+            "date": "2016-11-7",
+            "time": "13:24:01",
+            "txt": "谢谢你的等待，厦门的天气很好！"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-11-7",
+            "time": "13:25:01",
+            "txt": "因为爱所以爱！"
+          }
+        ]
+      },
+      {
+        "name": "陈伟霆",
+        "noread": 3,
+        "online": false,
+        "star": false,
+        "blacklist": true,
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "香港我爱你？"
+          },
+          {
+            "type": "service",
+            "date": "2016-4-4",
+            "time": "13:22:01",
+            "txt": "你好！请问你需要什么帮助？"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:23:01",
+            "txt": "我想知道厦门的天气情况"
+          },
+          {
+            "type": "service",
+            "date": "2016-4-4",
+            "time": "13:24:01",
+            "txt": "谢谢你的等待，厦门的天气很好！"
+          },
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:15:01",
+            "txt": "这是最新版！"
+          }
+        ]
+      }
+    ]
+  },
+  "userQueue": {
+    "item": [
+      {
+        "name": "小A",
+        "from": "桌面网站",
+        "skill": "技能A",
+        "note": "咨询技能A",
+        "waitTime": "30",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小B",
+        "from": "移动网站",
+        "skill": "技能B",
+        "note": "咨询技能B",
+        "waitTime": "20",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小C",
+        "from": "APP",
+        "skill": "技能C",
+        "note": "咨询技能C",
+        "waitTime": "10",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小D",
+        "from": "微信",
+        "skill": "技能D",
+        "note": "咨询技能D",
+        "waitTime": "40",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小E",
+        "from": "第三方平台",
+        "skill": "技能E",
+        "note": "咨询技能E",
+        "waitTime": "50",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      },
+      {
+        "name": "小F",
+        "from": "桌面网站",
+        "skill": "技能F",
+        "note": "咨询技能F",
+        "waitTime": "60",
+        "chat": [
+          {
+            "type": "oneself",
+            "date": "2016-4-4",
+            "time": "13:21:01",
+            "txt": "在吗？我想请问一个问题"
+          }
+        ]
+      }
+    ]
+  }
+}

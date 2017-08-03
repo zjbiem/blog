@@ -14,12 +14,12 @@
      */
   var demoContent = [
     {
-      demo_link: 'https://codepen.io/haoyang/pen/jrvrQq',
-      img_link: 'https://ooo.0o0.ooo/2016/11/24/5836d81f48cd2.png',
-      code_link: 'https://codepen.io/haoyang/pen/jrvrQq',
+      demo_link: 'http://likonion.club/demoSite/vux-demo/index.html#/',
+      img_link: 'https://github.com/likonion/vux-demo/raw/master/static/QQ20170803-164135.png',
+      code_link: 'https://github.com/likonion/vux-demo.git',
       title: 'vux-demo',
-      core_tech: 'JavaScript',
-      description: 'Fisher-Yates 洗牌算法动画。算法详情见 <a href ="https://gaohaoyang.github.io/2016/10/16/shuffle-algorithm/">这里</a>。'
+      core_tech: 'VUE VUX',
+      description: '基于VUE构建，VUE UI控件的使用'
     }, {
       demo_link: 'http://gaohaoyang.github.io/test/headerTransition/',
       img_link: 'https://ooo.0o0.ooo/2016/06/20/5768c1597d1fe.png',
