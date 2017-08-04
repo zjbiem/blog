@@ -90,14 +90,19 @@
                     // console.log('navBoxTop:' + navBoxTop)
                     // console.log(document.getElementById('content-side').scrollTop)
                     if (navATop >= navBoxClientHeight) {
-                        if (navATop < navBoxScrollHeight - navBoxClientHeight) {
-                            navBoxScrollTop = navBoxScrollHeight - navBoxClientHeight
-                        } else {
-                            navBoxScrollTop = navATop
-                        }
+                        // if (navATop < navBoxScrollHeight - navBoxClientHeight) {
+                        //     console.log(navATop/navBoxScrollHeight)
+                        //     navBox.scrollTop = navBoxClientHeight
+                        // } else {
+                        //     navBox.scrollTop = navBoxScrollTop
+                        // }
 
                     } else {
-                        // navBoxScroll -= navBoxTop
+                        // if (navATop > navBoxScrollHeight - navBoxClientHeight) {
+                        //     navBoxScrollTop -= navBoxClientHeight
+                        // } else {
+                        //     navBoxScrollTop = 0
+                        // }
                     }
                     if (navATop < 0) {
                         // document.getElementById('content-side').scrollTop = -navATop
