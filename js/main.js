@@ -56,7 +56,7 @@
 (function () {
     if (document.getElementById('content-side')) {
         var $navs = document.getElementById('content-side').querySelectorAll('a'),          // 导航
-            $sections = document.querySelector('.left').querySelectorAll('h1,h2,h3'),       // 模块
+            $sections = document.querySelector('.left').querySelectorAll('h1,h2,h3,h4,h5'),       // 模块
             $window = window,
             navLength = $navs.length - 1;
         $window.addEventListener('scroll', function () {
