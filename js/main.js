@@ -51,34 +51,36 @@
     // })
 }());
 
-//////////////////////////hover on demo//////////////////////////////
-(function () {
-    var demoItems = document.querySelectorAll('.grid-item')
-}());
 
 //////////////////////////scrollPos//////////////////////////////
-var $navs = document.getElementById('content-side').querySelectorAll('a'),          // 导航
-    $sections = document.querySelector('.left').querySelectorAll('h1,h2,h3'),       // 模块
-    $window = window,
-    navLength = $navs.length - 1;
-$window.addEventListener('scroll', function () {
-    var scrollTop = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop,
-        len = navLength;
-    function getOffset (el) {
-        const box = el.getBoundingClientRect();
-        return {
-            top: box.top + window.pageYOffset - document.documentElement.clientTop,
-            left: box.left + window.pageXOffset - document.documentElement.clientLeft
-        }
+(function () {
+    if (document.getElementById('content-side')) {
+        var $navs = document.getElementById('content-side').querySelectorAll('a'),          // 导航
+            $sections = document.querySelector('.left').querySelectorAll('h1,h2,h3'),       // 模块
+            $window = window,
+            navLength = $navs.length - 1;
+        $window.addEventListener('scroll', function () {
+            var scrollTop = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop,
+                len = navLength;
+
+            function getOffset(el) {
+                const box = el.getBoundingClientRect();
+                return {
+                    top: box.top + window.pageYOffset - document.documentElement.clientTop,
+                    left: box.left + window.pageXOffset - document.documentElement.clientLeft
+                }
+            }
+
+            for (; len > -1; len--) {
+                var that = $sections[len];
+                if (scrollTop >= getOffset(that).top) {
+                    $navs.forEach(function (e) {
+                        e.classList.remove('current')
+                    })
+                    $navs[len].classList.add('current')
+                    break;
+                }
+            }
+        })
     }
-    for (; len > -1; len--) {
-        var that = $sections[len];
-        if (scrollTop >= getOffset(that).top) {
-            $navs.forEach(function(e){
-                e.classList.remove('current')
-            })
-            $navs[len].classList.add('current')
-            break;
-        }
-    }
-});
+}())
