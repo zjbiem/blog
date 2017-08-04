@@ -57,9 +57,9 @@
     if (document.getElementById('content-side')) {
         var $navs = document.getElementById('content-side').querySelectorAll('a'),          // 导航
             $sections = document.querySelector('.left').querySelectorAll('h1,h2,h3,h4,h5'),       // 模块
-            $window = window,
             navLength = $navs.length - 1;
-        $window.addEventListener('scroll', function () {
+        window.addEventListener('scroll', function (e) {
+            e.stopPropagation()
             var scrollTop = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop,
                 len = navLength;
 
@@ -78,6 +78,30 @@
                         e.classList.remove('current')
                     })
                     $navs[len].classList.add('current')
+                    // console.log($navs[len].getAttribute('href'))
+                    // location.href = $navs[len].getAttribute('href');
+                    var navATop = $navs[len].offsetTop,
+                        navBox = document.getElementById('content-side'),
+                        navBoxClientHeight = navBox.clientHeight,
+                        navBoxScrollTop = navBox.scrollTop,
+                        navBoxScrollHeight = navBox.scrollHeight
+                    // console.log(document.getElementById('content-side').scrollHeight)
+                    // console.log('navATop:' + navATop)
+                    // console.log('navBoxTop:' + navBoxTop)
+                    // console.log(document.getElementById('content-side').scrollTop)
+                    if (navATop >= navBoxClientHeight) {
+                        if (navATop < navBoxScrollHeight - navBoxClientHeight) {
+                            navBoxScrollTop = navBoxScrollHeight - navBoxClientHeight
+                        } else {
+                            navBoxScrollTop = navATop
+                        }
+
+                    } else {
+                        // navBoxScroll -= navBoxTop
+                    }
+                    if (navATop < 0) {
+                        // document.getElementById('content-side').scrollTop = -navATop
+                    }
                     break;
                 }
             }
