@@ -78,34 +78,17 @@
                         e.classList.remove('current')
                     })
                     $navs[len].classList.add('current')
-                    // console.log($navs[len].getAttribute('href'))
-                    // location.href = $navs[len].getAttribute('href');
+                    // 右边目录根据滚动定位
                     var navATop = $navs[len].offsetTop,
                         navBox = document.getElementById('content-side'),
                         navBoxClientHeight = navBox.clientHeight,
                         navBoxScrollTop = navBox.scrollTop,
                         navBoxScrollHeight = navBox.scrollHeight
-                    // console.log(document.getElementById('content-side').scrollHeight)
-                    // console.log('navATop:' + navATop)
-                    // console.log('navBoxTop:' + navBoxTop)
-                    // console.log(document.getElementById('content-side').scrollTop)
                     if (navATop >= navBoxClientHeight) {
-                        // if (navATop < navBoxScrollHeight - navBoxClientHeight) {
-                        //     console.log(navATop/navBoxScrollHeight)
-                        //     navBox.scrollTop = navBoxClientHeight
-                        // } else {
-                        //     navBox.scrollTop = navBoxScrollTop
-                        // }
+                        navBox.scrollTop = parseInt(navATop / navBoxClientHeight) * navBoxClientHeight
 
                     } else {
-                        // if (navATop > navBoxScrollHeight - navBoxClientHeight) {
-                        //     navBoxScrollTop -= navBoxClientHeight
-                        // } else {
-                        //     navBoxScrollTop = 0
-                        // }
-                    }
-                    if (navATop < 0) {
-                        // document.getElementById('content-side').scrollTop = -navATop
+                        navBox.scrollTop = 0
                     }
                     break;
                 }
