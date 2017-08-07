@@ -14,7 +14,7 @@ tags: Vue NPM Node.js
 
 
 
-## 生产环境部署路径设置
+## 1.生产环境部署路径设置
 
 配置路径：config/index.js
 
@@ -38,6 +38,68 @@ build: {
     // Set to `true` or `false` to always turn it on or off
     bundleAnalyzerReport: process.env.npm_config_report
   },
+```
+
+## 2.windows环境下npm install 错误
+
+```
+C:\Users\simon\SPA\ANGULAR2 CALENDAR EXAMPLE>npm install
+
+    > node-zopfli@1.4.0 install C:\Users\simon\node_modules\node-zopfli
+    > node-pre-gyp install --fallback-to-build
+
+    node-pre-gyp ERR! Tried to download: https://node-zopfli.s3.amazonaws.com/Release/zopfli-v1.4.0-node-v48-win32-x64.tar.gz
+    node-pre-gyp ERR! Pre-built binaries not found for node-zopfli@1.4.0 and node@6.6.0 (node-v48 ABI) (falling back to source compile with node-gyp)
+    Building the projects in this solution one at a time. To enable parallel build, please add the "/m" switch.
+    C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Platforms\x64\PlatformToolsets\v140\Toolset.targets(36,5): error
+     MSB8036: The Windows SDK version 8.1 was not found. Install the required version of Windows SDK or change the SDK vers
+    ion in the project property pages or by right-clicking the solution and selecting "Retarget solution". [C:\Users\simon\
+    node_modules\node-zopfli\build\zopfli.vcxproj]
+    gyp ERR! build error
+    gyp ERR! stack Error: `C:\Program Files (x86)\MSBuild\14.0\bin\msbuild.exe` failed with exit code: 1
+    gyp ERR! stack     at ChildProcess.onExit (C:\Users\simon\node_modules\node-gyp\lib\build.js:276:23)
+    gyp ERR! stack     at emitTwo (events.js:106:13)
+    gyp ERR! stack     at ChildProcess.emit (events.js:191:7)
+    gyp ERR! stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:215:12)
+    gyp ERR! System Windows_NT 10.0.14393
+    gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\simon\\node_modules\\node-gyp\\bin\\node-gyp.js" "build" "--fallback-to-build" "--module=C:\\Users\\simon\\node_modules\\node-zopfli\\lib\\binding\\node-v48-win32-x64\\zopfli.node" "--module_name=zopfli" "--module_path=C:\\Users\\simon\\node_modules\\node-zopfli\\lib\\binding\\node-v48-win32-x64"
+    gyp ERR! cwd C:\Users\simon\node_modules\node-zopfli
+    gyp ERR! node -v v6.6.0
+    gyp ERR! node-gyp -v v3.4.0
+    gyp ERR! not ok
+    node-pre-gyp ERR! build error
+    node-pre-gyp ERR! stack Error: Failed to execute 'C:\Program Files\nodejs\node.exe C:\Users\simon\node_modules\node-gyp\bin\node-gyp.js build --fallback-to-build --module=C:\Users\simon\node_modules\node-zopfli\lib\binding\node-v48-win32-x64\zopfli.node --module_name=zopfli --module_path=C:\Users\simon\node_modules\node-zopfli\lib\binding\node-v48-win32-x64' (1)
+    node-pre-gyp ERR! stack     at ChildProcess.<anonymous> (C:\Users\simon\node_modules\node-pre-gyp\lib\util\compile.js:83:29)
+    node-pre-gyp ERR! stack     at emitTwo (events.js:106:13)
+    node-pre-gyp ERR! stack     at ChildProcess.emit (events.js:191:7)
+    node-pre-gyp ERR! stack     at maybeClose (internal/child_process.js:877:16)
+    node-pre-gyp ERR! stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+    node-pre-gyp ERR! System Windows_NT 10.0.14393
+    node-pre-gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\simon\\node_modules\\node-pre-gyp\\bin\\node-pre-gyp" "install" "--fallback-to-build"
+    node-pre-gyp ERR! cwd C:\Users\simon\node_modules\node-zopfli
+    node-pre-gyp ERR! node -v v6.6.0
+    node-pre-gyp ERR! node-pre-gyp -v v0.6.30
+    node-pre-gyp ERR! not ok
+    Failed to execute 'C:\Program Files\nodejs\node.exe C:\Users\simon\node_modules\node-gyp\bin\node-gyp.js build --fallback-to-build --module=C:\Users\simon\node_modules\node-zopfli\lib\binding\node-v48-win32-x64\zopfli.node --module_name=zopfli --module_path=C:\Users\simon\node_modules\node-zopfli\lib\binding\node-v48-win32-x64' (1)
+```
+解决办法：
+
+>   # before installing node-gyp on windows
+> npm install --global --production windows-build-tools
+
+ >  # install node-gyp globally
+> npm install -g node-gyp
+
+## 3. vuex2.0 ...mapState报错
+想要使用...map啥啥啥的话，你需要transform-object-rest-spread。
+
+npm装一个babel-plugin-transform-object-rest-spread，之后在package.json或其他调用babel的地方加上transform-object-rest-spread，类似这样：
+
+```
+"babel": {
+        "presets": ["es2015"],
+        "plugins": ["transform-runtime", "transform-object-rest-spread"]
+    }
 ```
 
 

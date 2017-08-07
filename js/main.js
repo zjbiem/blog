@@ -58,6 +58,7 @@
         var $navs = document.getElementById('content-side').querySelectorAll('a'),          // 导航
             $sections = document.querySelector('.left').querySelectorAll('h1,h2,h3,h4,h5'),       // 模块
             navLength = $navs.length - 1;
+
         window.addEventListener('scroll', function (e) {
             e.stopPropagation()
             var scrollTop = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop,
