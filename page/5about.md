@@ -21,6 +21,7 @@ type: page
 * email：likonion@outlook.com
 * [Weibo](http://weibo.com/312397481)
 * [知乎](https://www.zhihu.com/people/likonion)
+* [Facebook](https://www.facebook.com/likonion)
 * [Twitter](https://twitter.com/likonion)
 * [豆瓣](https://www.douban.com/people/46151533/)
 
