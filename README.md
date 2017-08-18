@@ -1,10 +1,10 @@
 # 关于这个简洁明快的博客主题 🤘🤘🤘
 
-[![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/network)
-[![GitHub issues](https://img.shields.io/github/issues/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues)
-[![GitHub release](https://img.shields.io/github/release/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/releases)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang.github.io/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/likonion/likonion.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/likonion/likonion.github.io.svg)](https://github.com/likonion/likonion.github.io/network)
+[![GitHub issues](https://img.shields.io/github/issues/likonion/likonion.github.io.svg)](https://github.com/likonion/likonion.github.io/issues)
+[![GitHub release](https://img.shields.io/github/release/likonion/likonion.github.io.svg)](https://github.com/likonion/likonion.github.io/releases)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/likonion/likonion.github.io/master/LICENSE)
 
 随着 jekyll 的版本升级，同时我也想重构我的旧版博客主题，因此在这个月对博客进行了重构加改版，这个仓库存放我的新博客，并且我也会一直使用这个主题。目前基本改版完成，后续可能还会有些细节上的修补。
 
@@ -48,11 +48,11 @@
 先上预览图：
 
 主页
-![FireShot Capture 24 - 文阁style - http___likonion.club_](media/FireShot%20Capture%2024%20-%20%E6%96%87%E9%98%81style%20-%20http___likonion.club_.png)
+![default](media/default.png)
 
 
 文章页
-![FireShot Capture 27 - 19 个 JavaScript 常用的简写技术 - http___likonion.club_2017_07_26_19JavaScript_](media/FireShot%20Capture%2027%20-%2019%20%E4%B8%AA%20JavaScript%20%E5%B8%B8%E7%94%A8%E7%9A%84%E7%AE%80%E5%86%99%E6%8A%80%E6%9C%AF%20-%20http___likonion.club_2017_07_26_19JavaScript_.png)
+![page](media/page.png)
 
 
 ## 各部分详情
@@ -113,18 +113,13 @@ disqus_shortname: xxx
 
 完美适配移动端。
 
-![WechatIMG100](media/WechatIMG100.png)
-![WechatIMG99](media/WechatIMG99.png)
+![phone](media/phone.png)
 
 
 
 
 
 
-### Footer
-
-**欢迎使用这个主题，使用时请保留 footer 上的模板主题来源。** Theme designed by [HyG](https://github.com/gaohaoyang).
-![footer](http://ww3.sinaimg.cn/large/7011d6cfjw1f3bepd8002j20hl02ct95.jpg)
 
 ### 统计
 
@@ -181,10 +176,10 @@ gem install jekyll
 
 ```yml
 # Site settings
-title: HyG
+title: 文阁style
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "http://likonion.club" # the base hostname & protocol for your site
 ```
 
 #### 链接信息
@@ -193,13 +188,13 @@ url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
 
 ```yml
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+twitter_username: likonion
+facebook_username:
+github_username:  likonion
+email: likonion@outlook.com
+weibo_username:
+zhihu_username:
+linkedIn_username:
 dribbble_username:
 
 description_footer: 本站记录我前端之旅的沿途风景！
@@ -209,17 +204,6 @@ description_footer: 本站记录我前端之旅的沿途风景！
 
 获取`short_name`的方法：
 
-访问 https://disqus.com/ 或 http://duoshuo.com/ 根据提示操作即可。
-
-```yml
-# comments
-# two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: gaohaoyang
-```
-
-运行成功后，可以在 disqus 或 多说 的后台管理页看到相关信息。
 
 #### 统计信息
 
@@ -245,12 +229,12 @@ google_analytics_id: UA-72449510-4 # google 分析追踪id
 ```
 ---
 layout: post
-title:  "对这个 jekyll 博客主题的改版和重构"
-date:   2016-03-12 11:40:18 +0800
-categories: jekyll
-tags: jekyll 端口 markdown Foxit RubyGems HTML CSS
-author: Haoyang Gao
-mathjax: true
+title: template page
+categories: cate1, cate2
+description: some word here
+keywords: keyword1, keyword2
+tags: tags1 tags2
+
 ---
 ```
 
@@ -318,6 +302,6 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 
 ## License
 
-[MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+[MIT License](https://github.com/likonion/likonion.github.io/blob/master/LICENSE.md)
 
 
