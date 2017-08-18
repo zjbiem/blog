@@ -7,7 +7,7 @@ tags: GitHub fork
 ---
 * content
 {:toc}
->github上fork了别人的项目后，再同步更新别人的提交
+github上fork了别人的项目后，再同步更新别人的提交
 
 
 

@@ -1,11 +1,15 @@
 header {
   height: 52px;
   margin-bottom: 20px;
-  color: #9e9d9d;
-  background: rgba(0, 0, 0, 0.03);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  color: #ffffff;
+  background: #0767c8;
+  background: -webkit-linear-gradient(top, #086ed5, #055db5);
+  background: linear-gradient(to bottom, #086ed5, #055db5);
+  border-bottom: 1px solid #044e97;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.15);
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   a {
-    color: #9e9d9d;
+    color: #bdd3ea;
     -webkit-transition: 0.2s ease;
     transition: 0.2s ease;
     &:hover {
@@ -19,11 +23,12 @@ header {
     .brand {
       font-weight: 600;
       font-size: 26px;
-      color: rgba(69, 157, 245, 0.9);
+      color: #ffffff;
     }
     small {
       margin-left: 26px;
       font-size: 14px;
+      color: #bdd3ea;
     }
     .menu {
       display: none;
@@ -43,17 +48,20 @@ header {
           a {
             display: inline-block;
             padding: 0 10px;
-            height: 40px;
+            height: 30px;
+            line-height: 30px;
             &:hover {
-              color: #223253;
+              color: #ffffff;
             }
             i {
               margin-right: 5px;
             }
           }
           > .active {
-            color: rgba(69, 157, 245, 0.9);
-            border-bottom: 1px solid rgba(69, 157, 245, 0.9);
+            color: #ffffff;
+            border: 1px solid rgba(37, 118, 199, 0.9);
+            background: #0e47b9;
+            border-radius: 6px;
           }
 
         }
@@ -83,7 +91,8 @@ header {
           li {
             a {
               padding: 0 8px;
-              height: 40px;
+              height: 30px;
+              line-height: 30px;
               i {
                 margin-right: 4px;
               }
@@ -121,7 +130,7 @@ header {
         top: 10px;
         cursor: pointer;
         padding: 5px 10px;
-        background: #1973cc;
+        background: #104d8a;
         border: 1px solid #0a6ccc;
         border-radius: 4px;
         color: #f8f8f2;
@@ -130,7 +139,7 @@ header {
         transition: 0.4s ease;
       }
       > .active {
-        background: #097def;
+        background: #1480ea;
         color: #fff;
       }
       .nav-show {
@@ -152,7 +161,6 @@ header {
         ul {
           border-radius: 0 0 4px 4px;
           background: #f7f7f7;
-          box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.2);
           li {
             font-size: 14px;
             display: block;
@@ -169,7 +177,8 @@ header {
             }
             > .active {
               color: #fff;
-              background-color: #0671da;
+              background-color: #4183c4;
+              border-radius: 0;
               box-shadow: none;
               border: none;
             }
