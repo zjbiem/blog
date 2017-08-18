@@ -1,4 +1,5 @@
 header {
+  position: relative;
   height: 52px;
   margin-bottom: 20px;
   color: #ffffff;
@@ -15,6 +16,20 @@ header {
     &:hover {
       color: rgba(69, 157, 245, 0.9);
     }
+  }
+  .headImg {
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    margin-left: -20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    //background: #0767c8;
+    //background: -webkit-linear-gradient(top, #086ed5, #055db5);
+    //background: linear-gradient(to bottom, #086ed5, #055db5);
+    background: url("/media/head.jpg") no-repeat;
+    background-size: 40px;
   }
   .wrapper {
     width: 1140px;
