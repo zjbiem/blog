@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 移动端开发遇到的坑
-categories: [移动端]
 description: some word here
 keywords: mobile, 移动端
 ---

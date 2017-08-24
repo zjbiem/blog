@@ -7,6 +7,9 @@ tags: GitHub fork
 ---
 * content
 {:toc}
+
+![](/media/github-logo.png)
+
 github上fork了别人的项目后，再同步更新别人的提交
 
 

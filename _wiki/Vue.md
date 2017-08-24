@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Vue
-categories: Vue
 description: Vue
 keywords: Vue, NPM, Node.js
 tags: Vue NPM Node.js

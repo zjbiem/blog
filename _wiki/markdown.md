@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Markdown 语法说明
-categories: Markdown
 description: Markdown 语法说明
 tags: Markdown
 keywords: Markdown

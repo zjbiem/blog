@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Jekyll
-categories: Jekyll
 description: Jekyll搭建写作环境问题集锦
 keywords: Jekyll
 ---

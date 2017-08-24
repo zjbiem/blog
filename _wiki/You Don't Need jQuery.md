@@ -1,7 +1,6 @@
 ---
 layout: page
 title: You Don't Need jQuery
-categories: JavaScript
 description: You Don't Need jQuery
 tags: JavaScript, jQuery
 keywords: JavaScript, jQuery
