@@ -43,7 +43,7 @@ hairlines”（retina 极细的线）：在retina屏上仅仅显示1物理像素
 ### 解决方案：
 解决方案是通过 JavaScript 检测浏览器能否处理0.5px的边框，如果可以，给html标签元素添加个class。
 
-```
+```js
 if (window.devicePixelRatio && devicePixelRatio >= 2) {
   var testElem = document.createElement('div');
   testElem.style.border = '.5px solid transparent';
@@ -59,7 +59,7 @@ if (testElem.offsetHeight == 1) {
 
 然后，极细的边框样式就容易了：
 
-```
+```css
  div {
   border: 1px solid #bbb;
 }
@@ -84,7 +84,7 @@ if (testElem.offsetHeight == 1) {
 
 
 样式设置：
-```
+```css
 .border-bottom-1px {
   border-width: 0 0 1px 0;
   -webkit-border-image: url(linenew.png) 0 0 2 0 stretch;
@@ -99,7 +99,7 @@ if (testElem.offsetHeight == 1) {
 
 样式设置：
 
-```
+```css
 .border-image-1px {
   border-width: 1px 0;
   -webkit-border-image: url(linenew.png) 2 0 stretch;
@@ -109,7 +109,7 @@ if (testElem.offsetHeight == 1) {
 
 到目前为止，我们已经能在iphone上展现1px border的效果了。但是我们发现这样的方法在非视网膜屏上会出现border显示不出来的现象，于是使用Media Query做了一些兼容，样式设置如下：
 
-```
+```css
 .border-image-1px {
   border-bottom: 1px solid #666;
 }
@@ -138,7 +138,7 @@ if (testElem.offsetHeight == 1) {
 background-image 跟border-image的方法一样，你要先准备一张符合你要求的图片。然后将边框模拟在背景上。
 样式设置：
 
-```
+```css
 .background-image-1px {
   background: url(../img/line.png) repeat-x left bottom;
   -webkit-background-size: 100% 1px;
@@ -161,7 +161,7 @@ background-image 跟border-image的方法一样，你要先准备一张符合你
 与background-image方案类似，只是将图片替换为css3渐变。设置1px的渐变背景，50%有颜色，50%透明。
 样式设置：
 
-```
+```css
 .background-gradient-1px {
   background:
     linear-gradient(#000, #000 100%, transparent 100%) left / 1px 100% no-repeat,
@@ -194,7 +194,7 @@ background-image 跟border-image的方法一样，你要先准备一张符合你
 
 利用css 对阴影处理的方式实现0.5px的效果
 样式设置：
-```
+```css
 .box-shadow-1px {
   box-shadow: inset 0px -1px 1px -1px #c8c7cc;
 }
@@ -212,13 +212,13 @@ background-image 跟border-image的方法一样，你要先准备一张符合你
 
 同时通过设置对应viewport的rem基准值，这种方式就可以像以前一样轻松愉快的写1px了。
 在devicePixelRatio = 2 时，输出viewport：
-```
+```html
 <meta name="viewport" content="initial-scale=0.5, maximum-scale=0.5, minimum-scale=0.5, user-scalable=no">
 ```
 
 在devicePixelRatio = 3 时，输出viewport：
 
-```
+```html
 <meta name="viewport" content="initial-scale=0.3333333333333333, maximum-scale=0.3333333333333333, minimum-scale=0.3333333333333333, user-scalable=no">
 ```
 
@@ -239,7 +239,7 @@ background-image 跟border-image的方法一样，你要先准备一张符合你
 原理是把原先元素的 border 去掉，然后利用 :before 或者 :after 重做 border ，并 transform 的 scale 缩小一半，原先的元素相对定位，新做的 border 绝对定位。
 单条border样式设置：
 
-```
+```css
 .scale-1px{
   position: relative;
   border:none;
@@ -260,7 +260,7 @@ background-image 跟border-image的方法一样，你要先准备一张符合你
 
 四条boder样式设置:
 
-```
+```css
 .scale-1px{
   position: relative;
   margin-bottom: 20px;
@@ -286,7 +286,7 @@ background-image 跟border-image的方法一样，你要先准备一张符合你
 
 最好在使用前也判断一下，结合 JS 代码，判断是否 Retina 屏：
 
-```
+```js
 if(window.devicePixelRatio && devicePixelRatio >= 2){
   document.querySelector('ul').className = 'scale-1px';
 }

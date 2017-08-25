@@ -19,7 +19,7 @@ tags: JavaScript jQuery
 
 ## 假设结构如下：
 
-```
+```html
 <div class="container">
   <div class="wrapper">
     <div class="section" id="section1">section1</div>
@@ -42,7 +42,7 @@ tags: JavaScript jQuery
 
 ### jQuery 实现方式：
 
-```
+```js
 var $navs = $('nav a'),          // 导航
   $sections = $('.section'),       // 模块
   $window = $(window),
@@ -63,7 +63,7 @@ $window.on('scroll', function() {
   
 ###   JavaScript 实现方式：
   
-  ```
+  ```js
   var $navs = document.getElementById('content-side').querySelectorAll('a'),          // 导航
     $sections = document.querySelector('.left').querySelectorAll('h1,h2,h3'),       // 模块
     $window = window,
