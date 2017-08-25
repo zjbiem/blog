@@ -22,7 +22,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+
+  font-weight: bold;
 }
 
 html {
@@ -30,9 +31,10 @@ html {
 }
 
 body {
-  color: #333;
-  font: 13px/1.4 'Helvetica Neue', -apple-system, BlinkMacSystemFont, "Noto Sans", "Segoe UI", Roboto, Helvetica, Arial, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
-  font-size: 1rem;
+  color: $text-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
   -webkit-font-smoothing: antialiased;
   background-color: #fff;
   position: relative;
@@ -66,35 +68,11 @@ hr {
 }
 
 ///////////
-h1 {
-  font-size: 30px;
-}
 
-h2 {
-  font-size: 26px;
-  border-bottom: 1px solid #eee;
-  margin: 50px 0 25px;
-}
 
-h3 {
-  font-size: 23px;
-  margin: 50px 0 20px;
-}
 
-h4 {
-  font-size: 19px;
-  margin: 30px 0 10px;
-}
 
-h5 {
-  font-size: 17px;
-  margin: 20px 0 10px;
-}
 
-h6 {
-  font-size: 16px;
-  margin: 10px 0 5px;
-}
 
 blockquote {
   color: #444;

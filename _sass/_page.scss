@@ -18,8 +18,8 @@
     width: 75%;
     float: left;
     padding: 20px 30px;
-    line-height: 1.6;
-    font-size: 16px;
+    line-height: 29px;
+    font-size: 18px;
 
     > h1 {
       margin-bottom: -10px;
@@ -41,7 +41,6 @@
         color: #888888;
         time {
           display: inline-block;
-          width: 135px;
         }
         .title {
           font-weight: bold;
@@ -135,13 +134,13 @@
       }
       .title {
         padding: 2px 5px 2px 10px;
-        color: #999999;
+        color: #272822;
         border-left: 5px solid #999;
         font-size: 14px;
         margin-top: 10px;
       }
       a {
-        color: #999999;
+        color: #272822;
         font-size: 13px;
         &:hover {
           color: #4183c4;
