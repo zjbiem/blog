@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 如何用好 Chrome devtools
-categories: 前端工具
+categories: 工具/软件/技巧
 description: Chrome devtools
 tags: chrome Chrome devtools
 ---

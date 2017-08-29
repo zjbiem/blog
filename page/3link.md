@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 收藏
-permalink: /wiki/
+title: 链接
+permalink: /link/
 icon: bookmark
 type: page
 ---
@@ -11,12 +11,6 @@ type: page
 <div class="searchBoxIndex">
             {% include search.html %}
         </div>
-## wiki
-{% for wiki in site.wiki %}
-{% if wiki.title != "Wiki Template" %}
-* [{{ wiki.title }}]({{ wiki.url }})
-{% endif %}
-{% endfor %}
 
 ## 工具
 

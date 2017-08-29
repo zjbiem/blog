@@ -1,7 +1,7 @@
 ---
 layout: post
 title: github上fork了别人的项目后，再同步更新别人的提交
-categories: GitHub
+categories: 工具/软件/技巧
 description: github fork update
 tags: GitHub fork
 ---

@@ -1,12 +1,16 @@
 ---
 layout: page
 title: HTML/CSS/JS编码规范
+categories: 前端
 description: HTML/CSS/JS编码规范
 keywords: HTML, CSS, JavaScript
 tags: HTML CSS JavaScript
 ---
 * content
 {:toc}
+![](/media/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
+
+
 
 
 
