@@ -8,7 +8,7 @@ tags: HTML CSS JavaScript
 ---
 * content
 {:toc}
-![](/media/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
+<div class="postImg" style="background-image:url(/media/1*l4xICbIIYlz1OTymWCoUTw.jpeg)"></div>
 
 
 

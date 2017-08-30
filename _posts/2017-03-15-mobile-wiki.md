@@ -7,7 +7,7 @@ keywords: mobile, 移动端
 ---
 * content
 {:toc}
-![](/media/a7aa6ff5435d5e1_size59_w1200_h799.jpg)
+<div class="postImg" style="background-image:url(/media/a7aa6ff5435d5e1_size59_w1200_h799.jpg)"></div>
 
 
 

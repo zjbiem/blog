@@ -76,9 +76,9 @@
                 var that = $sections[len];
                 if (scrollTop >= getOffset(that).top) {
                     $navs.forEach(function (e) {
-                        e.classList.remove('current')
+                        e.closest('li').classList.remove('current')
                     })
-                    $navs[len].classList.add('current')
+                    $navs[len].closest('li').classList.add('current')
                     // 右边目录根据滚动定位
                     var navATop = $navs[len].offsetTop,
                         navBox = document.getElementById('content-side'),

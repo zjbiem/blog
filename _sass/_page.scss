@@ -19,8 +19,15 @@
     float: left;
     padding: 20px 30px;
     line-height: 29px;
-    font-size: 18px;
-
+    .postImg {
+      margin-bottom: 16px;
+      min-height: 260px;
+      border-radius: 5px;
+      background-position: 50% 50%;
+      background-size: cover;
+      -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.04);
+      box-shadow: 0 1px 4px rgba(0,0,0,.04)
+    }
     > h1 {
       margin-bottom: -10px;
     }
@@ -51,6 +58,15 @@
           }
         }
         .excerpt {
+          .postImg {
+            margin-bottom: 16px;
+            min-height: 260px;
+            border-radius: 5px;
+            background-position: 50% 50%;
+            background-size: cover;
+            -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.04);
+            box-shadow: 0 1px 4px rgba(0,0,0,.04)
+          }
         }
         .label {
           font-size: 12px;
@@ -154,13 +170,31 @@
       padding-right: 10px;
       line-height: 1.8;
       padding-left: 35px;
-      li {
+      >li {
+        &.current {
+          color: rgba(69, 157, 245, 0.9);
+          >a {
+            color: white;
+            background-color: rgba(69, 157, 245, 0.9);
+          }
+        }
         a {
           border-radius: 4px;
           padding: 3px;
+        }
+
+        li {
+          color: black;
           &.current {
-            color: white;
-            background-color: rgba(69, 157, 245, 0.9);
+            color: rgba(69, 157, 245, 0.9);
+            >a {
+              color: white;
+              background-color: rgba(69, 157, 245, 0.9);
+            }
+          }
+          a {
+            border-radius: 4px;
+            padding: 3px;
           }
         }
       }
@@ -193,7 +227,9 @@
       float: left;
       padding: 10px 14px;
       font-size: 14px;
-
+      .postImg {
+        min-height: 160px;
+      }
       > h1 {
         font-size: 25px;
         margin-bottom: -10px;
