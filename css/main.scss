@@ -46,7 +46,7 @@ $on-laptop: 800px;
  * variables
  */
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "reset", "header", "post", "page", "syntax-highlighting", "index", "demo", "footer", "scrollbar", "backToTop", "searchBox";
+@import "reset", "header", "post", "page", "github", "index", "demo", "footer", "scrollbar", "backToTop", "searchBox";
 
 h1 {
   font-weight: 400;
