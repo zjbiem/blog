@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1992888c-99c8-47ad-9097-ecb060d0d28f" name="默认" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/.idea/shelf/" />
+    <ignored path=".sass-cache/cfe1c4e5f667da7a3058a7dbc9ee0de4a45e5863/" />
+    <ignored path="_site/CNAME" />
+    <ignored path="_site/favicon.ico" />
+    <ignored path="_site/feed.xml" />
+    <ignored path="_site/index.html" />
+    <ignored path="_site/LICENSE" />
+    <ignored path="_site/README.md" />
+    <ignored path="_site/search.json" />
+    <ignored path="_site/about/index.html" />
+    <ignored path="_site/archive/index.html" />
+    <ignored path="_site/category/index.html" />
+    <ignored path="_site/css/main.css" />
+    <ignored path="_site/demo/index.html" />
+    <ignored path="_site/js/jekyll-search.js" />
+    <ignored path="_site/js/main.js" />
+    <ignored path="_site/js/masonry.pkgd.min.js" />
+    <ignored path="_site/js/pageContent.js" />
+    <ignored path="_site/js/smooth-scroll.min.js" />
+    <ignored path="_site/js/waterfall.js" />
+    <ignored path="_site/media/15012060131331.jpg" />
+    <ignored path="_site/media/15012060543721.jpg" />
+    <ignored path="_site/media/15012061528112.png" />
+    <ignored path="_site/media/15012061662568.png" />
+    <ignored path="_site/media/15012062185118.png" />
+    <ignored path="_site/media/15012062628062.png" />
+    <ignored path="_site/media/15012062982540.png" />
+    <ignored path="_site/media/15012063749111.png" />
+    <ignored path="_site/media/15012063960038.png" />
+    <ignored path="_site/media/15012064284480.png" />
+    <ignored path="_site/media/15012064459372.png" />
+    <ignored path="_site/media/15012064637322.png" />
+    <ignored path="_site/media/15012064814217.png" />
+    <ignored path="_site/media/15012064998212.png" />
+    <ignored path="_site/media/15012065202049.png" />
+    <ignored path="_site/media/15012065343793.png" />
+    <ignored path="_site/media/15012065490319.png" />
+    <ignored path="_site/media/15012065619103.png" />
+    <ignored path="_site/media/15012065796738.png" />
+    <ignored path="_site/media/15012065934674.png" />
+    <ignored path="_site/media/15012066063035.png" />
+    <ignored path="_site/media/15012066202521.png" />
+    <ignored path="_site/media/15012066317050.png" />
+    <ignored path="_site/media/15012066451932.png" />
+    <ignored path="_site/media/15012066591461.jpg" />
+    <ignored path="_site/media/15012066723912.jpg" />
+    <ignored path="_site/media/15012066914661.jpg" />
+    <ignored path="_site/media/15012067071826.png" />
+    <ignored path="_site/media/15012067184535.png" />
+    <ignored path="_site/media/15012067330570.png" />
+    <ignored path="_site/media/15012067424282.png" />
+    <ignored path="_site/media/15012067502174.png" />
+    <ignored path="_site/media/15012067573461.png" />
+    <ignored path="_site/media/15012067655031.png" />
+    <ignored path="_site/media/15012067742446.png" />
+    <ignored path="_site/media/15012067826576.png" />
+    <ignored path="_site/media/15012067920057.png" />
+    <ignored path="_site/media/15012068002677.png" />
+    <ignored path="_site/media/15012068119532.png" />
+    <ignored path="_site/media/15012096825773.png" />
+    <ignored path="_site/media/15012096994606.png" />
+    <ignored path="_site/media/15012097059876.png" />
+    <ignored path="_site/media/15012097289236.png" />
+    <ignored path="_site/media/15012097709892.jpg" />
+    <ignored path="_site/media/15012097803958.jpg" />
+    <ignored path="_site/media/15012097890762.jpg" />
+    <ignored path="_site/media/15012098142792.jpg" />
+    <ignored path="_site/media/15012098291614.jpg" />
+    <ignored path="_site/media/15012098395005.png" />
+    <ignored path="_site/media/bg2015120901.png" />
+    <ignored path="_site/media/FireShot Capture 24 - 文阁style - http___likonion.club_.png" />
+    <ignored path="_site/media/FireShot Capture 27 - 19 个 JavaScript 常用的简写技术 - http___likonion.club_2017_07_26_19JavaScript_.png" />
+    <ignored path="_site/media/WechatIMG100.png" />
+    <ignored path="_site/media/WechatIMG99.png" />
+    <ignored path="_site/tag/index.html" />
+    <ignored path="_site/wiki/index.html" />
+    <ignored path="_site/2017/07/27/github-fork-update/index.html" />
+    <ignored path="_site/wiki/chinese-copywriting-guidelines/index.html" />
+    <ignored path="_site/wiki/eclipse/index.html" />
+    <ignored path="_site/wiki/git/index.html" />
+    <ignored path="_site/wiki/jekyll/index.html" />
+    <ignored path="_site/wiki/markdown/index.html" />
+    <ignored path="_site/wiki/mobile-wiki/index.html" />
+    <ignored path="_site/wiki/template/index.html" />
+    <ignored path="_site/2017/07/26/19JavaScript/index.html" />
+    <ignored path="_site/2017/07/26/7-retina-1pxborder/index.html" />
+    <ignored path="_site/2017/07/26/Chrome-devtools/index.html" />
+    <ignored path="_site/" />
+    <ignored path="node_modules/simple-jekyll-search/src/" />
+    <ignored path="node_modules/simple-jekyll-search/" />
+    <manually-removed-from-ignored>
+      <directory path="_site/" />
+    </manually-removed-from-ignored>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="48" column="50" lean-forward="false" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_syntax-highlighting.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/_syntax-highlighting.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-05-CSS布局方案.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-08-22-You Don't Need jQuery.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>（1）</find>
+      <find>start of a block just goe</find>
+      <find>highlighter</find>
+      <find>gems</find>
+      <find>_post</find>
+      <find>函数的返回值类型要确定</find>
+      <find>文件顶部的注</find>
+      <find>警惕临时变量</find>
+      <find>和搜索界面展示有关的处理逻辑</find>
+      <find>种排版的注释，右括号的对应关</find>
+      <find>应该用closest，如：</find>
+      <find>再如，改变一个button的状态，下面</find>
+      <find>器的时候做跳转，有些人喜</find>
+      <find>所以一般可以这样写：</find>
+      <find>tackoverflow.com/questions/25704650/disable-blue-highlight-when-touch-press-object-with-cursorpointer</find>
+      <find>```</find>
+      <find>base-font-family</find>
+      <find>h2</find>
+      <find>1px solid #eee</find>
+      <find>sw.js</find>
+      <find>.page[index</find>
+      <find>工具/软件</find>
+      <find>](media/</find>
+      <find>class=&quot;side&quot; style=&quot;border: none;&quot;</find>
+      <find>font-size: 15</find>
+      <find>a.current</find>
+      <find>current</find>
+      <find>.current</find>
+      <find>tips：</find>
+      <find>推荐方法b</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>media/</replace>
+      <replace>(/media/</replace>
+      <replace>** (.*?) **</replace>
+      <replace>| `</replace>
+      <replace>```</replace>
+      <replace>```| |</replace>
+      <replace>```|</replace>
+      <replace>**</replace>
+      <replace>&lt;</replace>
+      <replace>src</replace>
+      <replace>=&quot;</replace>
+      <replace />
+      <replace>&gt;</replace>
+      <replace>/&gt;</replace>
+      <replace>工具/软件/技巧</replace>
+      <replace>](/media/</replace>
+      <replace>说明：</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/_sass</dir>
+      <dir>$PROJECT_DIR$/_posts</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_sass/_reset.scss" />
+        <option value="$PROJECT_DIR$/_wiki/HTML:CSS:JS编码规范.md" />
+        <option value="$PROJECT_DIR$/page/0archives.html" />
+        <option value="$PROJECT_DIR$/page/1category.html" />
+        <option value="$PROJECT_DIR$/page/2tags.html" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_wiki/30分钟入门正则表达式.md" />
+        <option value="$PROJECT_DIR$/_posts/HTML:CSS:JS编码规范.md" />
+        <option value="$PROJECT_DIR$/_posts/You Don't Need jQuery.md" />
+        <option value="$PROJECT_DIR$/_posts/mobile-wiki.md" />
+        <option value="$PROJECT_DIR$/_posts/Vue.md" />
+        <option value="$PROJECT_DIR$/_posts/markdown.md" />
+        <option value="$PROJECT_DIR$/_posts/前端常用工具图.md" />
+        <option value="$PROJECT_DIR$/_posts/前端软件工具配置相关.md" />
+        <option value="$PROJECT_DIR$/_posts/信用卡.md" />
+        <option value="$PROJECT_DIR$/_posts/jekyll.md" />
+        <option value="$PROJECT_DIR$/_posts/git.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-01-Vue.md" />
+        <option value="$PROJECT_DIR$/page/3wiki.md" />
+        <option value="$PROJECT_DIR$/_includes/search.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-24-iPhone拍照构图、摄影及后期技巧分享.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-01-12-git.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-01-22-jekyll.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-05-HTML:CSS:JS编码规范.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-15-mobile-wiki.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-04-21-30分钟入门正则表达式.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-05-19-前端软件工具配置相关.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-06-06-浏览器兼容性.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-06-09-markdown.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-11-信用卡.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-26-7-retina-1pxborder.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-26-Chrome-devtools.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-27-github-fork-update.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-01-Vue WIKI.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-02-Javascript or jQuery实现页面滚动时导航智能定位.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-13-这可能是 Mac 上最佳的视频压制和格式转换方案.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md" />
+        <option value="$PROJECT_DIR$/_posts/template.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-26-19JavaScript.md" />
+        <option value="$PROJECT_DIR$/_sass/_index.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_sass/_post.scss" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/_sass/_page.scss" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" />
+        <option value="$PROJECT_DIR$/css/main.scss" />
+        <option value="$PROJECT_DIR$/_sass/github.scss" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="47" />
+    <option name="y" value="23" />
+    <option name="width" value="1393" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="likonion.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="likonion.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="likonion.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="likonion.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="likonion.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="likonion.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="main&#9;FILE&#9;file:///Users/liko/Dropbox/WebstormProjects/blog/likonion.github.io/css/main.scss&#10;SearchStrategies&#9;null&#9;null&#10;index.html&#9;FILE&#9;file:///Users/liko/Dropbox/WebstormProjects/blog/likonion.github.io/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_sass" />
+      <recent name="$PROJECT_DIR$/media" />
+      <recent name="$PROJECT_DIR$/_wiki" />
+      <recent name="$PROJECT_DIR$/demoSite/chatDefault" />
+      <recent name="$PROJECT_DIR$/demoSite/vux-demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1992888c-99c8-47ad-9097-ecb060d0d28f" name="默认" comment="" />
+      <created>1501469369773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501469369773</updated>
+      <workItem from="1501469371045" duration="493000" />
+      <workItem from="1501472163149" duration="30366000" />
+      <workItem from="1501636047254" duration="543000" />
+      <workItem from="1501636606688" duration="33000" />
+      <workItem from="1501636657268" duration="604000" />
+      <workItem from="1501637693263" duration="912000" />
+      <workItem from="1501638744786" duration="302000" />
+      <workItem from="1501639088487" duration="244000" />
+      <workItem from="1501639349793" duration="28000" />
+      <workItem from="1501639395314" duration="17885000" />
+      <workItem from="1501746605646" duration="1281000" />
+      <workItem from="1501748407393" duration="17603000" />
+      <workItem from="1501828563838" duration="606000" />
+      <workItem from="1501829480225" duration="14000" />
+      <workItem from="1501829552859" duration="1000" />
+      <workItem from="1501835025297" duration="2377000" />
+      <workItem from="1502064177862" duration="3000" />
+      <workItem from="1502092473580" duration="643000" />
+      <workItem from="1502097145480" duration="2003000" />
+      <workItem from="1502421263254" duration="1222000" />
+      <workItem from="1502437258470" duration="1675000" />
+      <workItem from="1502956320194" duration="2440000" />
+      <workItem from="1503018356936" duration="10590000" />
+      <workItem from="1503237742227" duration="51000" />
+      <workItem from="1503238481212" duration="66000" />
+      <workItem from="1503283690779" duration="24000" />
+      <workItem from="1503304822959" duration="1783000" />
+      <workItem from="1503468397976" duration="6467000" />
+      <workItem from="1503535761982" duration="39479000" />
+      <workItem from="1503975100689" duration="12508000" />
+      <workItem from="1504595932132" duration="4802000" />
+    </task>
+    <task id="LOCAL-00007" summary="delete node_modules">
+      <created>1501638702909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1501638702909</updated>
+    </task>
+    <task id="LOCAL-00008" summary="delete node_modules">
+      <created>1501638841489</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1501638841489</updated>
+    </task>
+    <task id="LOCAL-00009" summary="delete node_modules">
+      <created>1501641497912</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1501641497912</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1501642172782</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1501642172782</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1501643866213</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1501643866213</updated>
+    </task>
+    <task id="LOCAL-00012" summary="增加目录定位功能">
+      <created>1501664178244</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1501664178246</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1. add post&#10;2. update">
+      <created>1501666726560</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1501666726560</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1501748080781</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1501748080781</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1501749006662</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1501749006662</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <created>1501749216463</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1501749216463</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add demoSite&#10;chatdefault">
+      <created>1501750233139</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1501750233139</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add demoSite&#10;chatdefault">
+      <created>1501751267946</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1501751267946</updated>
+    </task>
+    <task id="LOCAL-00019" summary="delete demoSite">
+      <created>1501751403464</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1501751403464</updated>
+    </task>
+    <task id="LOCAL-00020" summary="修复bug">
+      <created>1501809006976</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1501809006977</updated>
+    </task>
+    <task id="LOCAL-00021" summary="修复bug">
+      <created>1501809505414</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1501809505414</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add wiki">
+      <created>1501816211946</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1501816211946</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add wiki">
+      <created>1501816274357</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1501816274357</updated>
+    </task>
+    <task id="LOCAL-00024" summary="bug">
+      <created>1501817694804</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1501817694804</updated>
+    </task>
+    <task id="LOCAL-00025" summary="修复 滚动页面定位到右边目录">
+      <created>1501818961007</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1501818961007</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update">
+      <created>1502092499826</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1502092499826</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update">
+      <created>1502098297841</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1502098297841</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update">
+      <created>1502421627267</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1502421627267</updated>
+    </task>
+    <task id="LOCAL-00029" summary="update">
+      <created>1502421663815</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1502421663815</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update">
+      <created>1502958134296</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1502958134296</updated>
+    </task>
+    <task id="LOCAL-00031" summary="update">
+      <created>1502958155059</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1502958155059</updated>
+    </task>
+    <task id="LOCAL-00032" summary="update">
+      <created>1503021360876</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1503021360876</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update">
+      <created>1503027104811</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1503027104811</updated>
+    </task>
+    <task id="LOCAL-00034" summary="update">
+      <created>1503027271754</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1503027271754</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update">
+      <created>1503027691746</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1503027691746</updated>
+    </task>
+    <task id="LOCAL-00036" summary="update">
+      <created>1503027850822</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1503027850822</updated>
+    </task>
+    <task id="LOCAL-00037" summary="update">
+      <created>1503035990524</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1503035990524</updated>
+    </task>
+    <task id="LOCAL-00038" summary="update">
+      <created>1503036957276</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1503036957276</updated>
+    </task>
+    <task id="LOCAL-00039" summary="update">
+      <created>1503474067884</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1503474067884</updated>
+    </task>
+    <task id="LOCAL-00040" summary="update">
+      <created>1503497491351</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1503497491352</updated>
+    </task>
+    <task id="LOCAL-00041" summary="update">
+      <created>1503562864420</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1503562864421</updated>
+    </task>
+    <task id="LOCAL-00042" summary="update">
+      <created>1503563939870</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1503563939870</updated>
+    </task>
+    <task id="LOCAL-00043" summary="update">
+      <created>1503564140135</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1503564140135</updated>
+    </task>
+    <task id="LOCAL-00044" summary="update">
+      <created>1503564387510</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1503564387510</updated>
+    </task>
+    <task id="LOCAL-00045" summary="update">
+      <created>1503643872369</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1503643872369</updated>
+    </task>
+    <task id="LOCAL-00046" summary="update">
+      <created>1503650823904</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1503650823904</updated>
+    </task>
+    <task id="LOCAL-00047" summary="update">
+      <created>1503651315749</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1503651315749</updated>
+    </task>
+    <task id="LOCAL-00048" summary="update">
+      <created>1503652053938</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1503652053938</updated>
+    </task>
+    <task id="LOCAL-00049" summary="update">
+      <created>1503991578968</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1503991578969</updated>
+    </task>
+    <task id="LOCAL-00050" summary="update">
+      <created>1503991641106</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1503991641109</updated>
+    </task>
+    <task id="LOCAL-00051" summary="update">
+      <created>1503991701272</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1503991701272</updated>
+    </task>
+    <task id="LOCAL-00052" summary="update">
+      <created>1504069886595</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1504069886595</updated>
+    </task>
+    <task id="LOCAL-00053" summary="update">
+      <created>1504077155571</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1504077155572</updated>
+    </task>
+    <task id="LOCAL-00054" summary="update">
+      <created>1504603786159</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1504603786160</updated>
+    </task>
+    <task id="LOCAL-00055" summary="update">
+      <created>1504603891473</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1504603891473</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="157048000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="23" width="1393" height="877" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24927114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.50291544" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.4941691" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2911227" sideWeight="0.49708456" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="更新wiki" />
+    <MESSAGE value="delete _site" />
+    <MESSAGE value="delete node_modules" />
+    <MESSAGE value="增加目录定位功能" />
+    <MESSAGE value="1. add post&#10;2. update" />
+    <MESSAGE value="add demoSite&#10;chatdefault" />
+    <MESSAGE value="delete demoSite" />
+    <MESSAGE value="修复bug" />
+    <MESSAGE value="add wiki" />
+    <MESSAGE value="bug" />
+    <MESSAGE value="修复 滚动页面定位到右边目录" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-26-19JavaScript.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="78" column="37" lean-forward="false" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_post.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="63" column="16" lean-forward="false" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2415">
+          <caret line="105" column="76" lean-forward="false" selection-start-line="105" selection-start-column="76" selection-end-line="105" selection-end-column="76" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="10" lean-forward="false" selection-start-line="48" selection-start-column="10" selection-end-line="56" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/template.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_page.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4232">
+          <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-26-19JavaScript.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="78" column="37" lean-forward="false" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_post.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="63" column="16" lean-forward="false" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2415">
+          <caret line="105" column="76" lean-forward="false" selection-start-line="105" selection-start-column="76" selection-end-line="105" selection-end-column="76" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_page.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/template.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="49" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rouge_monokai.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3600">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monokai.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="60" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base16.monokai.dark.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="209" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="48" column="10" lean-forward="false" selection-start-line="48" selection-start-column="10" selection-end-line="56" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5066">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2490">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base16.monokai.light.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="48" column="50" lean-forward="false" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/github.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_syntax-highlighting.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
