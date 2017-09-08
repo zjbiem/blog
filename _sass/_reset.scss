@@ -87,8 +87,6 @@ blockquote {
 }
 
 table {
-  border-top: 2px solid #777;
-  border-bottom: 2px solid #777;
   margin: 8px 0;
   border-collapse: collapse;
   thead {
@@ -97,8 +95,8 @@ table {
     color: #fff;
   }
   th {
+    border: 1px solid #cfd8dc;
     padding: 2px 10px;
-    text-align: left;
   }
   tbody {
     tr {
@@ -111,6 +109,7 @@ table {
     }
   }
   td {
+    border: 1px solid #cfd8dc;
     padding: 2px 10px;
   }
 }
