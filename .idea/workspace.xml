@@ -2,9 +2,200 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1992888c-99c8-47ad-9097-ecb060d0d28f" name="默认" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-09-07-JEEP指南者备忘.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/006tNc79jw1f9brc50sfaj304w04wdfu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/006tNc79jw1f9qc5frof5j30dw07uwep.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/006tNc79jw1f9qc5wb6j9j30rs0jw77z.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/006tNc79jw1f9qfqk770jj30m80aqgn2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/006tNc79jw1f9qgo055jzj30rs07idhf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/006tNc79jw1f9qgo0a1w6j30rs0cdgnq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/006tNc79jw1f9qhws2qxuj30jg0q4tc8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/072030niil03u1uvi710j1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1*l4xICbIIYlz1OTymWCoUTw.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114059.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114061.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114062-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114062.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114064-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114064.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114066-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114066.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114069-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114069.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114070.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114072.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114075.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114076.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114079.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114080.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114082.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114084.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114086.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114088.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114090.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114092.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114094.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114140.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/100114141.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/116165-20160630110328843-2101737128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1494908-0964dcfe98567e04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1494908-0e7ae8a32060fd06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1494908-540f4b84f0c46718.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1494908-649788c09dd58f45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1494908-794b1018c55decaa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1494908-aa98bedf4b7063c7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1494908-bcd6e8b1044f89a4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1494908-bfe5cab6aaa1aa88.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1494908-cae14ac52be74413.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1494908-cbaa609e647dd1de.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012060131331.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012060543721.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012061528112.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012061662568.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012062185118.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012062628062.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012062982540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012063749111.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012063960038.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012064284480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012064459372.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012064637322.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012064814217.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012064998212.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012065202049.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012065343793.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012065490319.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012065619103.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012065796738.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012065934674.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012066063035.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012066202521.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012066317050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012066451932.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012066591461.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012066723912.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012066914661.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012067071826.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012067184535.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012067330570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012067424282.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012067502174.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012067573461.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012067655031.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012067920057.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012068002677.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012068119532.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012096825773.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012096994606.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012097059876.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012097289236.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012097709892.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012097803958.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012097890762.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012098142792.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012098291614.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/15012098395005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-0c3a77e3ed6fdbe7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-0cb17f37a9c278b1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-0d0b5ac998f986de.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-16323958e6414664.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-1a9a648937c3ca6b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-1b2103cc7d25103f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-2019740a98b2d1a6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-3b1072a46526173e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-3c19e76829859bc9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-453cb9e7a4ca5b61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-45be91b4679df8c4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-4bb65fa97c1f30db.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-5b20da8be8429b28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-602cf111d8bcd855.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-61c1e2461cf2357a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-62cc7cee096a0633.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-676f79e6b1c4d24f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-6d275ce8fb545465.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-70a42fc075a289ac.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-72fd2e5f8cf6cdeb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-7db763b6bbdcba78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-7e93afc14041f61b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-8ae9fa00dc331953.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-8b48163cfae58a04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-a5678bad8d1e5284.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-a6d409480f1a31cf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-a6f8f74788081750.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-ab90e2c57ca94762.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-ae4e819b08a38d90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-ae937c53205e6223.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-af76476fc398423e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-afbe3632091ffb71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-b814e5673239c2de.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-c3cac05145e88a64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-cab16d821cd81432.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-e067cfd435ed52d3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-e9f198b3615c3a86.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-eb792a2cf15550ff.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-f2ed63357044b9e9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-ff1b5fdeed97512d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1713024-ff765f970a25b2b7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/1pximage.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/2012111614_30ac87f2c661c8e62ef2sUlICxoP9sfU.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/20160628110530781.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/31714eaf3a9bc272c50dbf1e1279f14b-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/31714eaf3a9bc272c50dbf1e1279f14b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/500_5f42_601e42dc_601e42dc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/500_926f_592a9bd2_592a9bd2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/500_wKgFVVfuEw2ADfgcAAOEhFEwd_0959.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/500_wKgH5VfuEwaAdjd8AAJwrY93f18000.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/500_wKjBwVfuEuyAci3FAAK_ATqJXXk671.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/500_wKjBwlfuEwOAC0hEAAKEV1DBVS0028.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/57ee481b35cd9_57ee27ab28753_242574177.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/59183920gw1epduv9a3gzj20rs0m8ago.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/6797c276197029d941ee577d877d6be3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/801b780ajw1f9qimviihij20rs0c7wgu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/801b780ajw1f9qipwvrqdj20ss0dwdi3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/801b780ajw1f9qiu6x1gbj20g40a3aaf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/801b780ajw1f9qj7r47mij20jg0q5wic.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/801b780ajw1f9qjk9m8auj21220xy11u.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/801b780ajw1f9qk9w54k1j207404z74h.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/801b780ajw1f9qkmzyc7kj21100iejti.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/98EE1922476614F36F64145C2BBAECC860F4C697_size83_w620_h465.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Screen Recording 2017-09-04 at 12.53 下午.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/a7aa6ff5435d5e1_size59_w1200_h799.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/ad406608b75744baa6f89ae3c26ba69d.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/bg2015120901.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/c438e44aed5565ae.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/chrome-devtools.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/e8c1a14cca725798b5aaa88bf5d23de8.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/github-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/java-script.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/jekyll_liquid.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/link.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/markdown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/maxresdefault-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/maxresdefault.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/viewProductFeaturePicture.bv.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_reset.scss" afterPath="$PROJECT_DIR$/_sass/_reset.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-01-12-git.md" afterPath="$PROJECT_DIR$/_posts/2017-01-12-git.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-01-22-jekyll.md" afterPath="$PROJECT_DIR$/_posts/2017-01-22-jekyll.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-05-HTML:CSS:JS编码规范.md" afterPath="$PROJECT_DIR$/_posts/2017-02-05-HTML:CSS:JS编码规范.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-11-前端常用工具图.md" afterPath="$PROJECT_DIR$/_posts/2017-02-11-前端常用工具图.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-03-15-mobile-wiki.md" afterPath="$PROJECT_DIR$/_posts/2017-03-15-mobile-wiki.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-04-21-30分钟入门正则表达式.md" afterPath="$PROJECT_DIR$/_posts/2017-04-21-30分钟入门正则表达式.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-05-19-前端软件工具配置相关.md" afterPath="$PROJECT_DIR$/_posts/2017-05-19-前端软件工具配置相关.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-06-06-浏览器兼容性.md" afterPath="$PROJECT_DIR$/_posts/2017-06-06-浏览器兼容性.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-06-09-markdown.md" afterPath="$PROJECT_DIR$/_posts/2017-06-09-markdown.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-11-信用卡.md" afterPath="$PROJECT_DIR$/_posts/2017-07-11-信用卡.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-26-19JavaScript.md" afterPath="$PROJECT_DIR$/_posts/2017-07-26-19JavaScript.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-26-7-retina-1pxborder.md" afterPath="$PROJECT_DIR$/_posts/2017-07-26-7-retina-1pxborder.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-26-Chrome-devtools.md" afterPath="$PROJECT_DIR$/_posts/2017-07-26-Chrome-devtools.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-27-github-fork-update.md" afterPath="$PROJECT_DIR$/_posts/2017-07-27-github-fork-update.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-01-Vue WIKI.md" afterPath="$PROJECT_DIR$/_posts/2017-08-01-Vue WIKI.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-02-Javascript or jQuery实现页面滚动时导航智能定位.md" afterPath="$PROJECT_DIR$/_posts/2017-08-02-Javascript or jQuery实现页面滚动时导航智能定位.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-13-这可能是 Mac 上最佳的视频压制和格式转换方案.md" afterPath="$PROJECT_DIR$/_posts/2017-08-13-这可能是 Mac 上最佳的视频压制和格式转换方案.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md" afterPath="$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-24-iPhone拍照构图、摄影及后期技巧分享.md" afterPath="$PROJECT_DIR$/_posts/2017-08-24-iPhone拍照构图、摄影及后期技巧分享.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md" afterPath="$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-06-让Git不再难学.md" afterPath="$PROJECT_DIR$/_posts/2017-09-06-让Git不再难学.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-07-JEEP指南者备忘.md" afterPath="$PROJECT_DIR$/_posts/2017-09-07-JEEP指南者备忘.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/template.md" afterPath="$PROJECT_DIR$/_posts/template.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -157,11 +348,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-07-JEEP指南者备忘.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-09-07-JEEP指南者备忘.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-07-JEEP指南者备忘.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="288" column="79" lean-forward="false" selection-start-line="288" selection-start-column="79" selection-end-line="288" selection-end-column="79" />
+            <state relative-caret-position="661">
+              <caret line="277" column="0" lean-forward="false" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-01-12-git.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-01-12-git.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -179,8 +380,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>文件顶部的注</find>
-      <find>警惕临时变量</find>
       <find>和搜索界面展示有关的处理逻辑</find>
       <find>种排版的注释，右括号的对应关</find>
       <find>应该用closest，如：</find>
@@ -209,6 +408,8 @@
       <find>&lt;span class='hs_kw2_mainpl'&gt;&lt;/span&gt;</find>
       <find>span\n                                            class\=\'hs_kw3_mainpl\'\&gt;\&lt;\/span\&gt;</find>
       <find>众所周知</find>
+      <find>/media/</find>
+      <find>(/media/</find>
     </findStrings>
     <replaceStrings>
       <replace>media/</replace>
@@ -228,11 +429,13 @@
       <replace>工具/软件/技巧</replace>
       <replace>](/media/</replace>
       <replace>说明：</replace>
+      <replace>http://ovl1kjv88.bkt.clouddn.com/media/</replace>
+      <replace>(http://ovl1kjv88.bkt.clouddn.com/media/</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$/_posts</dir>
       <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/_sass</dir>
+      <dir>$PROJECT_DIR$/_posts</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -258,7 +461,6 @@
         <option value="$PROJECT_DIR$/_includes/search.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2017-08-24-iPhone拍照构图、摄影及后期技巧分享.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-01-12-git.md" />
         <option value="$PROJECT_DIR$/_posts/2017-01-22-jekyll.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-05-HTML:CSS:JS编码规范.md" />
         <option value="$PROJECT_DIR$/_posts/2017-03-15-mobile-wiki.md" />
@@ -292,6 +494,7 @@
         <option value="$PROJECT_DIR$/_sass/_reset.scss" />
         <option value="$USER_HOME$/Downloads/【图】指南者换胎方案汇总，不定期更新_指南者论坛_汽车之家论坛.html" />
         <option value="$PROJECT_DIR$/_posts/2017-09-07-JEEP指南者备忘.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-01-12-git.md" />
       </list>
     </option>
   </component>
@@ -340,16 +543,6 @@
             <path>
               <item name="likonion.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="likonion.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="likonion.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="likonion.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="likonion.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="likonion.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -440,14 +633,7 @@
       <workItem from="1504595932132" duration="4802000" />
       <workItem from="1504678343388" duration="2011000" />
       <workItem from="1504748208965" duration="13000" />
-      <workItem from="1504764923076" duration="10081000" />
-    </task>
-    <task id="LOCAL-00007" summary="delete node_modules">
-      <created>1501638702909</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1501638702909</updated>
+      <workItem from="1504764923076" duration="11656000" />
     </task>
     <task id="LOCAL-00008" summary="delete node_modules">
       <created>1501638841489</created>
@@ -785,11 +971,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504603891473</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="update">
+      <created>1504850345419</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1504850345421</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169153000" />
+    <option name="totallyTimeSpent" value="170728000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -802,20 +995,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="23" width="1393" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24927114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24927114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.50291544" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.4941691" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.50291544" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.4941691" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2911227" sideWeight="0.49708456" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -890,13 +1082,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_sass/_post.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1449">
-          <caret line="63" column="16" lean-forward="false" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2415">
@@ -1828,8 +2013,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-07-JEEP指南者备忘.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="288" column="79" lean-forward="false" selection-start-line="288" selection-start-column="79" selection-end-line="288" selection-end-column="79" />
+        <state relative-caret-position="661">
+          <caret line="277" column="0" lean-forward="false" selection-start-line="277" selection-start-column="0" selection-end-line="277" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-12-git.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
