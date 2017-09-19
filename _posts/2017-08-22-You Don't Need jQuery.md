@@ -3,7 +3,7 @@ layout: page
 title: You Don't Need jQuery
 categories: 前端技术
 description: You Don't Need jQuery
-tags: JavaScript, jQuery
+tags: JavaScript jQuery
 keywords: JavaScript, jQuery
 ---
 * content

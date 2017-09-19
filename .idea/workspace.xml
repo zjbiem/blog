@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1992888c-99c8-47ad-9097-ecb060d0d28f" name="默认" comment="update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-09-18-工作中经常用到github上优秀、实用、轻量级、无依赖的插件和库.md" />
+    <list default="true" id="1992888c-99c8-47ad-9097-ecb060d0d28f" name="默认" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-01-12-git.md" afterPath="$PROJECT_DIR$/_posts/2017-01-12-git.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-01-22-jekyll.md" afterPath="$PROJECT_DIR$/_posts/2017-01-22-jekyll.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-05-HTML:CSS:JS编码规范.md" afterPath="$PROJECT_DIR$/_posts/2017-02-05-HTML:CSS:JS编码规范.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-11-前端常用工具图.md" afterPath="$PROJECT_DIR$/_posts/2017-02-11-前端常用工具图.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-03-15-mobile-wiki.md" afterPath="$PROJECT_DIR$/_posts/2017-03-15-mobile-wiki.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-04-21-30分钟入门正则表达式.md" afterPath="$PROJECT_DIR$/_posts/2017-04-21-30分钟入门正则表达式.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-05-19-前端软件工具配置相关.md" afterPath="$PROJECT_DIR$/_posts/2017-05-19-前端软件工具配置相关.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-06-06-浏览器兼容性.md" afterPath="$PROJECT_DIR$/_posts/2017-06-06-浏览器兼容性.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-06-09-markdown.md" afterPath="$PROJECT_DIR$/_posts/2017-06-09-markdown.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-26-19JavaScript.md" afterPath="$PROJECT_DIR$/_posts/2017-07-26-19JavaScript.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-26-7-retina-1pxborder.md" afterPath="$PROJECT_DIR$/_posts/2017-07-26-7-retina-1pxborder.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-26-Chrome-devtools.md" afterPath="$PROJECT_DIR$/_posts/2017-07-26-Chrome-devtools.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-27-github-fork-update.md" afterPath="$PROJECT_DIR$/_posts/2017-07-27-github-fork-update.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-01-Vue WIKI.md" afterPath="$PROJECT_DIR$/_posts/2017-08-01-Vue WIKI.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-02-Javascript or jQuery实现页面滚动时导航智能定位.md" afterPath="$PROJECT_DIR$/_posts/2017-08-02-Javascript or jQuery实现页面滚动时导航智能定位.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-13-这可能是 Mac 上最佳的视频压制和格式转换方案.md" afterPath="$PROJECT_DIR$/_posts/2017-08-13-这可能是 Mac 上最佳的视频压制和格式转换方案.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md" afterPath="$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-24-iPhone拍照构图、摄影及后期技巧分享.md" afterPath="$PROJECT_DIR$/_posts/2017-08-24-iPhone拍照构图、摄影及后期技巧分享.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md" afterPath="$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-06-让Git不再难学.md" afterPath="$PROJECT_DIR$/_posts/2017-09-06-让Git不再难学.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/template.md" afterPath="$PROJECT_DIR$/_posts/template.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -147,11 +126,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-18-工作中经常用到github上优秀、实用、轻量级、无依赖的插件和库.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-09-18-工作中经常用到github上优秀、实用、轻量级、无依赖的插件和库.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-18-工作中经常用到github上优秀、实用、轻量级、无依赖的插件和库.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-08-22-You Don't Need jQuery.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-05-19-前端软件工具配置相关.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-05-19-前端软件工具配置相关.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -279,12 +278,12 @@
         <option value="$PROJECT_DIR$/_posts/2017-08-02-Javascript or jQuery实现页面滚动时导航智能定位.md" />
         <option value="$PROJECT_DIR$/_posts/2017-08-13-这可能是 Mac 上最佳的视频压制和格式转换方案.md" />
         <option value="$PROJECT_DIR$/_posts/template.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md" />
         <option value="$PROJECT_DIR$/_posts/2017-08-24-iPhone拍照构图、摄影及后期技巧分享.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-06-让Git不再难学.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-18.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-18-工作中经常用到github上优秀、实用、轻量级、无依赖的插件和库.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md" />
       </list>
     </option>
   </component>
@@ -354,7 +353,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="main&#9;FILE&#9;file:///Users/liko/Dropbox/WebstormProjects/blog/likonion.github.io/css/main.scss&#10;SearchStrategies&#9;null&#9;null&#10;index.html&#9;FILE&#9;file:///Users/liko/Dropbox/WebstormProjects/blog/likonion.github.io/index.html" />
+    <property name="SearchEverywhereHistoryKey" value="you&#9;FILE&#9;file:///Users/liko/Documents/blog/likonion.github.io/_posts/2017-08-22-You Don't Need jQuery.md&#10;main&#9;FILE&#9;file:///Users/liko/Dropbox/WebstormProjects/blog/likonion.github.io/css/main.scss&#10;SearchStrategies&#9;null&#9;null&#10;index.html&#9;FILE&#9;file:///Users/liko/Dropbox/WebstormProjects/blog/likonion.github.io/index.html" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -431,14 +430,7 @@
       <workItem from="1504764923076" duration="12166000" />
       <workItem from="1505179610458" duration="166000" />
       <workItem from="1505198292168" duration="1245000" />
-      <workItem from="1505722987713" duration="3284000" />
-    </task>
-    <task id="LOCAL-00010" summary="update">
-      <created>1501642172782</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1501642172782</updated>
+      <workItem from="1505722987713" duration="3449000" />
     </task>
     <task id="LOCAL-00011" summary="update">
       <created>1501643866213</created>
@@ -776,11 +768,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505200811888</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="update">
+      <created>1505782951256</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1505782951258</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175933000" />
+    <option name="totallyTimeSpent" value="176098000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -793,8 +792,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="23" width="1393" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24927114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24927114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.50291544" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.4941691" order="7" side_tool="false" content_ui="tabs" />
@@ -1091,14 +1091,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-19-前端软件工具配置相关.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-27-github-fork-update.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -1179,14 +1171,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-24-iPhone拍照构图、摄影及后期技巧分享.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -1231,6 +1215,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-08-22-You Don't Need jQuery.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-19-前端软件工具配置相关.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding />
         </state>
       </provider>
