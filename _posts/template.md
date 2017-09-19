@@ -1,7 +1,7 @@
 ---
 layout: post
 title: template page
-categories: cate1, cate2
+categories: 工具, 前端技术, Mac&iPhone
 description: some word here
 keywords: keyword1, keyword2
 tags: tags1 tags2

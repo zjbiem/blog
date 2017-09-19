@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HTML/CSS/JS编码规范
-categories: 前端
+categories: 前端技术
 description: HTML/CSS/JS编码规范
 keywords: HTML, CSS, JavaScript
 tags: HTML CSS JavaScript

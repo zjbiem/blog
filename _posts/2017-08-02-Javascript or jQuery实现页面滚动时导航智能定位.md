@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Javascript or jQuery实现页面滚动时导航智能定位
-categories: 前端
+categories: 前端技术
 description: Javascript or jQuery实现页面滚动时导航智能定位
 tags: JavaScript jQuery
 ---
