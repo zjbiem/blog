@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1992888c-99c8-47ad-9097-ecb060d0d28f" name="默认" comment="update">
+    <list default="true" id="1992888c-99c8-47ad-9097-ecb060d0d28f" name="默认" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md" afterPath="$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" afterPath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/thankful_eyes.scss" afterPath="$PROJECT_DIR$/_sass/thankful_eyes.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -161,8 +159,8 @@
       <file leaf-file-name="2017-09-05-CSS布局方案.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="1426" column="65" lean-forward="false" selection-start-line="1426" selection-start-column="65" selection-end-line="1426" selection-end-column="65" />
+            <state relative-caret-position="259">
+              <caret line="250" column="4" lean-forward="false" selection-start-line="250" selection-start-column="4" selection-end-line="250" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -180,8 +178,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>器的时候做跳转，有些人喜</find>
-      <find>所以一般可以这样写：</find>
       <find>tackoverflow.com/questions/25704650/disable-blue-highlight-when-touch-press-object-with-cursorpointer</find>
       <find>```</find>
       <find>base-font-family</find>
@@ -210,6 +206,8 @@
       <find>npm install better-scroll --save-dev</find>
       <find>var myNumeral = numeral(1000)</find>
       <find>#122b3b</find>
+      <find>垂直</find>
+      <find>列定宽，一列自适应</find>
     </findStrings>
     <replaceStrings>
       <replace>media/</replace>
@@ -457,14 +455,7 @@
       <workItem from="1509960015611" duration="2254000" />
       <workItem from="1509974759345" duration="285000" />
       <workItem from="1510035675662" duration="449000" />
-      <workItem from="1510036970959" duration="5371000" />
-    </task>
-    <task id="LOCAL-00015" summary="update">
-      <created>1501749006662</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1501749006662</updated>
+      <workItem from="1510036970959" duration="5705000" />
     </task>
     <task id="LOCAL-00016" summary="update">
       <created>1501749216463</created>
@@ -802,11 +793,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507789014848</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="update">
+      <created>1510043508904</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1510043508905</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193523000" />
+    <option name="totallyTimeSpent" value="193857000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -819,8 +817,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="23" width="1389" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24926901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24926901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.49707603" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28772378" sideWeight="0.50877196" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1257,8 +1256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-05-CSS布局方案.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="1426" column="65" lean-forward="false" selection-start-line="1426" selection-start-column="65" selection-end-line="1426" selection-end-column="65" />
+        <state relative-caret-position="259">
+          <caret line="250" column="4" lean-forward="false" selection-start-line="250" selection-start-column="4" selection-end-line="250" selection-end-column="4" />
           <folding />
         </state>
       </provider>
