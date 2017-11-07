@@ -1,6 +1,13 @@
 pre {
   overflow-x: auto;
 }
+.highlighter-rouge {
+  padding: 2px 4px;
+  color: #555;
+  background: #eee;
+  border-radius: 3px;
+  font-size: 13px
+}
 .highlight {
   border-radius: 3px;
   padding: 10px;
