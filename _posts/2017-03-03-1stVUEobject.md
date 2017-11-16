@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一个VUE项目演示
+title: 一个VUE项目演示以及相关问题
 categories: 前端技术
 description: some word here
 keywords:
@@ -377,7 +377,7 @@ module.exports = {                                   // 暴露本模块的功能
 };
 ```
 
-## build/webpack.base.conf.js 文件
+## `build/webpack.base.conf.js` 文件
 
 我们来简单看一下 webpack 的配置文件
 `webpack.base.conf.js` 主要完成了下面这些事情：
@@ -469,6 +469,16 @@ module.exports = {
   }
 }
 ```
+## `config/index.js` 文件
+```js
+assetsRoot: path.resolve(__dirname, '../dist/'), // 构建输出目录 也就是构建后的东西都扔这里
+assetsSubDirectory: 'static', // 资源子目录 除了index.html，其余的js img css都分在这里
+assetsPublicPath: '/', // 项目目录 一个杠杠 啥意思呢，是根目录的意思
+```
+> `/` 取根目录
+`./` 取当前目录
+`../` 取当前目录的上一层目录
+
 # vue 怎么使用组件
 ## `App.vue` 文件
 
