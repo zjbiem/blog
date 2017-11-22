@@ -28,12 +28,12 @@
       core_tech: 'vue2 + vuex + vue-router + webpack + ES6/7 + mockjs + sass',
       description: '基于VUE的一个客服界面演示，练习'
     }, {
-      demo_link: 'http://gaohaoyang.github.io/mask-fade-out/',
-      img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/demo-fade-out.png',
-      code_link: 'https://github.com/Gaohaoyang/mask-fade-out',
-      title: '遮罩层按指定路径缩小消失',
-      core_tech: 'jQuery CSS',
-      description: '使用 animate 方法，做到兼容 IE8。曾在联想服务官网上线3个月。'
+      demo_link: 'http://likonion.club/xmair_zhizhuang_mobile/dist/index.html#/index',
+      img_link: 'https://raw.githubusercontent.com/likonion/xmair_zhizhuang_mobile/master/static/IMG_DED19AF17548-1.jpeg',
+      code_link: 'https://github.com/likonion/xmair_zhizhuang_mobile',
+      title: '制装劳保移动端界面',
+      core_tech: 'VUE VUX',
+      description: '制装劳保移动端界面'
     }, {
       demo_link: 'http://gaohaoyang.github.io/ToDo-WebApp/',
       img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/blog-todoWebApp.png',

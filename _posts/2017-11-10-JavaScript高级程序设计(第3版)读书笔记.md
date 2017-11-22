@@ -8,8 +8,7 @@ tags: JavaScript
 * content
 {:toc}
 <div class="postImg" style="background-image:url(http://ovl1kjv88.bkt.clouddn.com/media/1-1F919104H63N.jpg)"></div>
-文章中存在的4次换行为摘要分割符，换行前的内容会以摘要的形式显示在主页Home上，进入文章页不影响。
-换行符的设置见配置文件_config.yml的 excerpt，如下：
+
 
 
 
@@ -25,9 +24,7 @@ tags: JavaScript
 * `language`:已废弃。原来用于表示编写代码使用的脚本语言(如 JavaScript、JavaScript1.2 或 VBScript)。大多数浏览器会忽略这个属性，因此也没有必要再用了。
 * `src`:可选。表示包含要执行代码的外部文件。
 * `type`:可选。可以看成是 language 的替代属性;表示编写代码使用的脚本语言的内容类型(也
-称为 MIME 类型)。虽然 text/javascript 和 text/ecmascript 都已经不被推荐使用，但人 们一直以来使用的都还是 text/javascript。实际上，服务器在传送 JavaScript 文件时使用的 MIME 类型通常是 application/x–javascript，但在 type 中设置这个值却可能导致脚本被 忽略。另外，在非 IE 浏览器中还可以使用以下值:application/javascript 和 application/
-     www.linuxidc.com
-ecmascript。考虑到约定俗成和最大限度的浏览器兼容性，目前 type 属性的值依旧还是 text/javascript。不过，这个属性并不是必需的，如果没有指定这个属性，则其默认值仍为 text/javascript。
+称为 MIME 类型)。虽然 text/javascript 和 `text/ecmascript` 都已经不被推荐使用，但人 们一直以来使用的都还是 `text/javascript`。实际上，服务器在传送 JavaScript 文件时使用的 MIME 类型通常是 application/x–javascript，但在 type 中设置这个值却可能导致脚本被 忽略。另外，在非 IE 浏览器中还可以使用以下值:application/javascript 和 `application/ecmascript`。考虑到约定俗成和最大限度的浏览器兼容性，目前 type 属性的值依旧还是 text/javascript。不过，这个属性并不是必需的，如果没有指定这个属性，则其默认值仍为 text/javascript。
 
 ## 2.5 小结
 
@@ -173,3 +170,25 @@ function factorial(num){
     }
 }
 ```
+
+# 第13章 事件
+## 13.3 事件对象
+### 13.3.1 DOM中的事件对象
+event 对象包含与创建它的特定事件有关的属性和方法。触发的事件类型不一样，可用的属性和方
+ 法也不一样。不过，所有事件都会有下表列出的成员。
+
+|属性/方法| 类 型 | 读/写 | 说明 |
+|---|---|---|---|
+|bubbles|Boolean|只读|表明事件是否冒泡|
+|cancelable|Boolean|只读|表明是否可以取消事件的默认行为|
+|currentTarget|Element|只读|其事件处理程序当前正在处理事件的那个元素|
+|defaultPrevented|Boolean|只读|为 true 表 示 已 经 调 用 了 preventDefault() (DOM3级事件中新增)|
+|detail|Integer|只读|与事件相关的细节信息|
+|eventPhase|Integer|只读|调用事件处理程序的阶段:1表示捕获阶段，2表示“处于目标”，3表示冒泡阶段|
+|preventDefault()|Function|只读|取消事件的默认行为。如果cancelable是true，则可以使用这个方法|
+|stopImmediatePropagation()|Function|只读|取消事件的进一步捕获或冒泡，同时阻止任何事件处理程序被调用(DOM3级事件中新增)|
+|stopPropagation()|Function|只读|取消事件的进一步捕获或冒泡。如果bubbles为true，则可以使用这个方法|
+|target|Element|只读|事件的目标|
+|trusted|Boolean|只读|为true表示事件是浏览器生成的。为false表 示事件是由开发人员通过JavaScript创建的 (DOM3级事件中新增)|
+|type|String|只读|被触发的事件的类型|
+|view|AbstractView|只读|与事件关联的抽象视图。等同于发生事件的 window对象|
