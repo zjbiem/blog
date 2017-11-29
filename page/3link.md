@@ -15,6 +15,7 @@ type: page
 
 * [阮一峰的网络日志（蚂蚁金服）](http://www.ruanyifeng.com/blog/)
 * [张鑫旭（腾讯）](http://www.zhangxinxu.com/wordpress/)
+* [小火柴的蓝色理想](http://www.cnblogs.com/xiaohuochai/)
 
 ## 工具
 
