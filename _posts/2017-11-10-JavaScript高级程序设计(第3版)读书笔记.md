@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript高级程序设计(第3版)读书笔记
-categories: 工具, 前端技术, Mac&iPhone
+categories: 前端技术
 description: some word here
 tags: JavaScript
 ---
