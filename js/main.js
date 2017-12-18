@@ -101,22 +101,20 @@
 // 设置图片说明宽度
 (function () {
     var img_instructions = document.querySelectorAll('.img-instructions');
-    var unfinishImg = 0; // 统计未加载完的图片张数
     var timer = setInterval(function () {
+        var imgLoadComplete = true; // 图片是否全部加载完成
         for (var i = 0; i < img_instructions.length; i++) {
             var img = img_instructions[i].previousElementSibling.querySelectorAll('img')[0];
             if (img.complete) {
                 var imgBoxWidth = img.clientWidth;
                 img_instructions[i].style.width = imgBoxWidth - 10 + 'px';
             } else {
-                unfinishImg++
-                // console.log('还有' + unfinishImg +'张图片未加载完成。')
+                imgLoadComplete = false;
             }
         }
-        if (unfinishImg === 0) {
+        if (imgLoadComplete) {
             clearInterval(timer)
         }
-        unfinishImg = 0;
     }, 500)
 
        
