@@ -20,5 +20,7 @@ excerpt_separator: "\n\n\n\n"
 
 
 Content here
+![](http://ovl1kjv88.bkt.clouddn.com/media/500_wKgFVVouJNqActSbAAT4kOIJ6RM247.jpg-width_700)
+<p class="img-instructions">图片说明文字</p>
 
 
