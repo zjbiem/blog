@@ -96,4 +96,13 @@
             }
         })
     }
-}())
+}());
+
+// 设置图片说明宽度
+(function () {
+    var img_instructions = document.querySelectorAll('.img-instructions');
+    for (var i=0; i < img_instructions.length; i++) {
+        var imgBoxWidth = img_instructions[i].previousElementSibling.querySelectorAll('img')[0].clientWidth;
+        img_instructions[i].style.width = imgBoxWidth - 10 + 'px';
+    }
+})()
