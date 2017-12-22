@@ -1,4 +1,4 @@
-# 关于这个简洁明快的博客主题 🤘🤘🤘
+# 我的 Jekyll 博客
 
 [![GitHub stars](https://img.shields.io/github/stars/likonion/likonion.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/likonion/likonion.github.io.svg)](https://github.com/likonion/likonion.github.io/network)
@@ -6,7 +6,6 @@
 [![GitHub release](https://img.shields.io/github/release/likonion/likonion.github.io.svg)](https://github.com/likonion/likonion.github.io/releases)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/likonion/likonion.github.io/master/LICENSE)
 
-随着 jekyll 的版本升级，同时我也想重构我的旧版博客主题，因此在这个月对博客进行了重构加改版，这个仓库存放我的新博客，并且我也会一直使用这个主题。目前基本改版完成，后续可能还会有些细节上的修补。
 
 **博客访问地址：[http://likonion.github.io/](http://likonion.github.io/)**。若您喜欢这个新的博客主题，请给我个star以示鼓励吧，欢迎大家使用。
 
@@ -48,11 +47,11 @@
 先上预览图：
 
 主页
-![default](media/default.png)
+![default](images/media/default.png)
 
 
 文章页
-![page](media/page.png)
+![page](images/media/page.png)
 
 
 ## 各部分详情
@@ -113,7 +112,7 @@ disqus_shortname: xxx
 
 完美适配移动端。
 
-![phone](media/phone.png)
+![phone](images/media/phone.png)
 
 
 
@@ -284,7 +283,6 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 
 在本地访问 localhost:4000 即可看到博客主页。
 
-若安装了 Foxit 福昕pdf阅读器可能会占用4000端口，关闭 Foxit服务 或切换 jekyll 端口即可解决。详情见文章：[对这个 jekyll 博客主题的改版和重构](http://gaohaoyang.github.io/2016/03/12/jekyll-theme-version-2.0/)
 
 若正在使用全局代理，可能会报错502，关闭全局代理即可。
 

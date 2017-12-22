@@ -17,13 +17,13 @@ tags: JavaScript Retina 移动前端 CSS border
 
 
 
-# 造成边框变粗的原因
+## 造成边框变粗的原因
 
 其实这个原因很简单，因为css中的1px并不等于移动设备的1px，这些由于不同的手机有不同的像素密度。在window对象中有一个devicePixelRatio属性，他可以反应css中的像素与设备的像素比。
 
 > devicePixelRatio的官方的定义为：设备物理像素和设备独立像素的比例，也就是 devicePixelRatio = 物理像素 / 独立像素。
 
-# 解决边框变粗的6种办法
+## 解决边框变粗的6种办法
 
 ### 1、0.5px边框
 

@@ -15,7 +15,7 @@ github上fork了别人的项目后，再同步更新别人的提交
 
 
 
-# github网站上操作
+## github网站上操作
 
 ### 1. 打开自己的仓库，进入code下面。
 ### 2. 点击new pull request创建。
@@ -38,7 +38,7 @@ github上fork了别人的项目后，再同步更新别人的提交
 
 ### 7.完成。
 
-# 用git命令操作
+## 用git命令操作
 
 ### 1.用git remote查看远程主机状态
 

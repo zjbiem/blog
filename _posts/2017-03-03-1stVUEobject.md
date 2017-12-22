@@ -21,7 +21,7 @@ tags: VUE
 
 > 本文首发于网站： [https://link.juejin.im/?target=http%3A%2F%2Fcherryblog.site%2F](https://link.juejin.im/?target=http%3A%2F%2Fcherryblog.site%2F)
 
-# 预览
+## 预览
 > github 地址：github.com/sunshine940…
 
 首先安装依赖，然后直接运行就可以了~
@@ -31,40 +31,40 @@ npm install
 npm run dev
 ```
 
-# 技术栈
+## 技术栈
 
 `vue2`、`node`、`stylus`、`ES6`、`webpack`、`vue-router`、`vue-resource`、`mock`、`eslint`
 
 听到这些名字是不是觉得很眼熟啊~现在，你要清楚这个工具都是用来做什么的。
 
-# stylus
+## stylus
 
 Stylus 是一个 CSS 的预处理框架，2010 年产生，来自 Node.js 社区，主要用来给 Node 项目进行 CSS 预处理支持其本质上做的事情与 SASS/LESS 等类似。
 
 其实 stylus 和 sass 的 Sass 语法基本上是一样的。所以你要是使用 sass/less 习惯的话换成 sass/less 也是可以的。
 
-# vue-cli
+## vue-cli
 
 vue-cli 是一个官方发布 vue.js 项目脚手架,使用 vue-cli 可以快速创建 vue 项目的脚手架工具，当然你也可以自己创建。
 
-# ES6
+## ES6
 
 现在已经是标配了，没什么好说的，不过这个项目也就是用到了最基本的语法，let、const 和箭头函数这些基本的语法，所以 ES6 有一点基础就可以啦，不需要全部都懂的~
 
-# webpack
+## webpack
 
 webpack 是一个模块打包器。它的主要目标是将 JavaScript 文件打包在一起,打包后的文件用于在浏览器中使用，这个项目使用的是 webpack2，也是业界标配，没什么争议
 
-# vue-resource
+## vue-resource
 
 vue-resource 可以实现向服务器发送请求。
 vue-resource 是 Vue.js 的一款插件，它可以通过 XMLHttpRequest 或 JSONP 发起请求并处理响应。也就是说，jQuery 的 $.ajax 能做的事情，vue-resource 插件一样也能做到，而且 vue-resource 的 API 更为简洁。另外，vue-resource 还提供了非常有用的 inteceptor 功能，使用 inteceptor 可以在请求前和请求后附加一些行为，比如使用 inteceptor 在 ajax 请求时显示 loading 界面。
 
-# vue-router
+## vue-router
 
 因为我们的项目是一个 SPA 的单页应用，所以我们不能跳转到其他页面（单页应用），那么我们就需要将组件映射到路由，然后告诉路由在哪里渲染组件内容。
 
-# mock
+## mock
 
 因为这个项目是一个前后端分离的项目，所以我们要自己模拟数据，让前端攻城师独立于后端进行开发。该项目 mock 数据是通过 node 的 express 框架。
 
@@ -89,7 +89,7 @@ vue
 vue 是什么就不再赘述了~
 我们来说下 vue 的两大核心思想，一个是 组件化，一个是数据驱动
 
-# 组件化开发
+## 组件化开发
 
 组件化就是将一个整体合理拆分为一个一个小块（组件），组件可重复使用。
 我们使用组件化是将我们的项目中多次出现的部分抽离出来形成一个 component，在这个 component 中包含这个组件的 html、js、css 和 image 文件。
@@ -132,17 +132,17 @@ header
 
 使用 vue 进行组件化开发可以解决组件的复用性（样式、逻辑、属性）、组件间的通信等问题。
 
-# 数据驱动
+## 数据驱动
 
 数据驱动是前端的未来发展方向，释放了对 DOM 的操作，让 DOM 随着数据的变化自然而然的变化（尤神原话），不必过多的关注 DOM，只需要将数据组织好即可。
 
 vue、react、angular 和传统的 jQuery 开发的主要区别就是对 view 层的渲染，使前端不必在关心怎么操作 DOM（其实有好多人使用 jQuery 就是为了更方便的操作 DOM），而是将注意力放在业务上。
 
-# vue-cli
+## vue-cli
 在介绍完了一些基本的内容之后，相信你已经对我们要进行的项目有了一个大概的了解。
 那先从第一步开始，使用 vue 的脚手架工具 vue-cli 快速搭建一个 vue 项目。
 
-## 安装 vue-cli
+### 安装 vue-cli
 
 安装 vue-cli 很简单，只需要一个命令就好~（前提是你已经安装了 node，并且版本是 node 4+）
 
@@ -167,7 +167,7 @@ npm run dev
 
 ![](http://ovl1kjv88.bkt.clouddn.com/media/11c5077d875635e42962ead2bd0d5e5d.jpeg)
 第一个vue项目
-# 目录结构
+## 目录结构
 
 ```
 .
@@ -203,7 +203,7 @@ src 结构
 
 app.vue 是项目的主 vue 文件，main.js 是项目的主 js 文件（可以在 webpack 的配置文件webpack.base.conf.js 中配置）。
 
-## main.js 文件
+### main.js 文件
 
 在 main.js 中：
 ```vue
@@ -217,7 +217,7 @@ new Vue({
 ```
 我们先新创建一个 `vue` 实例，然后将导入的 `App` 挂载到 `#app` 上。这样 index.html 中的 `<div id="app"></div>`，就有了 `App.vue` 的内容。
 
-# 配置 webpack
+## 配置 webpack
 当我们使用 `npm run dev` 命令启动项目的时候，会查找 `package.json` 文件中 `script` 对象的 `dev` 对应的文件：
 `package.json`
 ```json
@@ -233,7 +233,7 @@ new Vue({
 ```
 所以在我们输入 `npm run dev` 启动项目之后，就会执行 `build/dev-server.js` 里面的文件。
 
-## `build/dev-server.js` 文件
+### `build/dev-server.js` 文件
 
 我们来看一下这个 `build/dev-server.js` 文件；
 
@@ -377,7 +377,7 @@ module.exports = {                                   // 暴露本模块的功能
 };
 ```
 
-## `build/webpack.base.conf.js` 文件
+### `build/webpack.base.conf.js` 文件
 
 我们来简单看一下 webpack 的配置文件
 `webpack.base.conf.js` 主要完成了下面这些事情：
@@ -469,7 +469,7 @@ module.exports = {
   }
 }
 ```
-## `config/index.js` 文件
+### `config/index.js` 文件
 ```js
 assetsRoot: path.resolve(__dirname, '../dist/'), // 构建输出目录 也就是构建后的东西都扔这里
 assetsSubDirectory: 'static', // 资源子目录 除了index.html，其余的js img css都分在这里
@@ -479,8 +479,8 @@ assetsPublicPath: '/', // 项目目录 一个杠杠 啥意思呢，是根目录�
 `./` 取当前目录
 `../` 取当前目录的上一层目录
 
-# vue 怎么使用组件
-## `App.vue` 文件
+## vue 怎么使用组件
+### `App.vue` 文件
 
 我们先来看一下入口的 vue 文件 App.vue
 在 `App.vue` 文件中：
@@ -557,7 +557,7 @@ assetsPublicPath: '/', // 项目目录 一个杠杠 啥意思呢，是根目录�
 
 其实也就相当于是 html、script 和 css 都放在了一个文件中。
 
-# vue 怎么使用组件
+## vue 怎么使用组件
 
 我们可以看出来 App.vue 基本上就是我们项目的主页面了，根据组件化的思想，我们将 header 单独创建出来，称为一个 component，然后我们怎么在 App.vue 中使用这个 header 组件呢？
 
@@ -565,7 +565,7 @@ assetsPublicPath: '/', // 项目目录 一个杠杠 啥意思呢，是根目录�
 2. 在 export 的时候声明这个 component
 3. 在 template 中就可以使用这个 component 了
 
-## 该项目中的组件
+### 该项目中的组件
 
 我们来看下 component 文件，看一下整个项目都有哪些 vue 组件
 
@@ -582,7 +582,7 @@ assetsPublicPath: '/', // 项目目录 一个杠杠 啥意思呢，是根目录�
 └── star                // 评分组件，显示小星星
 ```
 
-# 怎么使用 vue-router 设置路由
+## 怎么使用 vue-router 设置路由
 在上面的 App.vue 中，我们应该可以看到 tab 的 div 中使用了 vue-router，为什么使用 vue-router 在简介中也写明了。下面我们来看一下怎么使用 vue-router 的；
 
 1. 在 main.js 中使用 vue-router
@@ -649,7 +649,7 @@ new Vue({
 ![](http://ovl1kjv88.bkt.clouddn.com/media/68333cb6549a82252e9e43123447e11f.jpeg)
 评论页面
 
-# 数据 mock
+## 数据 mock
 在前面已经简单介绍了什么是数据的 mock，那么我们来实现一下~
 
 先需要准备一个 json 文件，模拟服务器给你传的数据（前提是你要和你们的后端商量好数据格式）。
@@ -765,12 +765,12 @@ export default{
     },
 };
 ```
-# v-show
+## v-show
 v-show 指令是控制元素的显示和隐藏，当 v-show 的值为 true 的时候，就会显示该元素，当 v-show 的值为 false 的时候，该元素就会隐藏。
 
 所以我们给 `class="detail"` 这个 div 设置一个 `v-show="detailShow"`，将变量 detailShow 赋值给 v-show，detailShow 变量的初始值我们设置在 `data(){}` 的返回函数中，初始值设置为 false，然后在点击 header 的时候，将 detailShow 设置为 true。这样 `class="detail"` 这个 div 就显示了~
 
-# v-bind
+## v-bind
 然后我们点击了 header 之后显示了 detail 页面，我们可以看到：
 
 ![](http://ovl1kjv88.bkt.clouddn.com/media/22df5f3481ea64b4e6cab4d81e07f4d9.jpeg)
@@ -800,7 +800,7 @@ created() {
 
 这样就可以做到传入不同的参数显示不同的样式了~
 
-# v-for
+## v-for
 其实从指令的名字就可以看出来，这个指令和循环有关，可以让我们循环 dom 结构。
 
 我们用 v-for 指令根据一组数组的选项列表进行渲染。v-for 指令需要使用 item in items 形式的特殊语法，items 是源数据数组并且 item 是数组元素迭代的别名。
@@ -816,7 +816,7 @@ header-detail
   </li>
 </ul>
 ```
-# vue 中的动画
+## vue 中的动画
 vue 中实现动画的操作有好多种，比如可以使用 vue 自带的 `transition`、css 动画、js 钩子函数
 
 我们在这里使用的是最简单的 vue 自带的 `transition`，使用方法如下：
@@ -865,8 +865,8 @@ methods: {
 }
 ```
 
-# 组件间的通信
-## 父组件向子组件传值
+## 组件间的通信
+### 父组件向子组件传值
 
 比如我们在 App.vue 中需要将 seller 的值（从数据中获取的 json 对象）传递给 header 组件
 

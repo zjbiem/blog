@@ -48,8 +48,8 @@ tags:
 
 function(e){}的匿名函数，在执行时，每一个都会创建一个新的作用域。这些匿名函数不会立即执行，仅仅是被定义，只有在点击时才执行，被当做参数传入addEventListener函数。所以在执行时i的值已经变为最后一个索引值。
 
-# 要解决这个问题，我们可以用以下几种方案：
-## 方案1-使用闭包
+## 要解决这个问题，我们可以用以下几种方案：
+### 方案1-使用闭包
 ```js
     var nodeList = document.getElementsByTagName('li');
        for (var i = 0; i < nodeList.length; i++) {
@@ -60,7 +60,7 @@ function(e){}的匿名函数，在执行时，每一个都会创建一个新的�
         })(i) ;
     }
 ```
-## 方案2-使用es6中let的块级作用域
+### 方案2-使用es6中let的块级作用域
 ```js
     var nodeList = document.getElementsByTagName('li');
     for (let i = 0; i < nodeList.length; i++) {
@@ -70,7 +70,7 @@ function(e){}的匿名函数，在执行时，每一个都会创建一个新的�
     }
 ```
 
-## 方案3-利用事件委托机制
+### 方案3-利用事件委托机制
 ```js
     var nodeList = document.getElementsByTagName('li');
     arrNodes = Array.prototype.slice.call(nodeList);
@@ -82,7 +82,7 @@ function(e){}的匿名函数，在执行时，每一个都会创建一个新的�
     },false);
 ```
 
-## 方案4-使用虚拟属性
+### 方案4-使用虚拟属性
 ```js
     var nodeList = document.getElementsByTagName('li');
     for(var i=0; i< nodeList.length; i++){
@@ -93,7 +93,7 @@ function(e){}的匿名函数，在执行时，每一个都会创建一个新的�
     }
 ```
 
-## 方案5-利用自定义属性
+### 方案5-利用自定义属性
 
 `ul>li`结构中给li标签加上自定义属性
 

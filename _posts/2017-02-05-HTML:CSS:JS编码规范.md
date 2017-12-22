@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: HTML/CSS/JS编码规范
 categories: 前端技术
 description: HTML/CSS/JS编码规范

@@ -55,14 +55,12 @@
 //////////////////////////scrollPos//////////////////////////////
 (function () {
     if (document.getElementById('content-side')) {
+        
         var $navs = document.getElementById('content-side').querySelectorAll('a'),          // 导航
-            $sections = document.querySelector('.left').querySelectorAll('h1,h2,h3,h4,h5'),       // 模块
-            navLength = $navs.length - 1;
-
-        window.addEventListener('scroll', function (e) {
+            $sections = document.querySelector('.left').querySelectorAll('h2,h3,h4,h5');       // 模块 h1为文章标题
+        window.onscroll = function (e) {
             e.stopPropagation()
-            var scrollTop = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop,
-                len = navLength;
+            var scrollTop = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;
 
             function getOffset(el) {
                 const box = el.getBoundingClientRect();
@@ -71,30 +69,28 @@
                     left: box.left + window.pageXOffset - document.documentElement.clientLeft
                 }
             }
-
-            for (; len > -1; len--) {
-                var that = $sections[len];
-                if (scrollTop >= getOffset(that).top) {
+            for (let i = 0; i < $navs.length ; i++) {
+                var that = $sections[i];
+                if (scrollTop >= getOffset(that).top - 50) {
+                    // 高亮目录
                     $navs.forEach(function (e) {
                         e.closest('li').classList.remove('current')
                     })
-                    $navs[len].closest('li').classList.add('current')
+                    $navs[i].closest('li').classList.add('current')
                     // 右边目录根据滚动定位
-                    var navATop = $navs[len].offsetTop,
+                    var navATop = $navs[i].offsetTop // 高亮目录距离顶部的距离
                         navBox = document.getElementById('content-side'),
-                        navBoxClientHeight = navBox.clientHeight,
-                        navBoxScrollTop = navBox.scrollTop,
-                        navBoxScrollHeight = navBox.scrollHeight
+                        navBoxClientHeight = navBox.clientHeight, // 目录容器可见区域的高度
+                        navBoxScrollTop = navBox.scrollTop; // 目录容器顶部被隐藏的高度
+                        // navBoxScrollHeight = navBox.scrollHeight; // 目录容器总高度
                     if (navATop >= navBoxClientHeight) {
-                        navBox.scrollTop = parseInt(navATop / navBoxClientHeight) * navBoxClientHeight
-
+                        navBox.scrollTop = navATop - navBoxClientHeight / 2 // 保证高亮目录在目录容器可见区域的中间位置
                     } else {
                         navBox.scrollTop = 0
                     }
-                    break;
                 }
             }
-        })
+        }
     }
 }());
 
