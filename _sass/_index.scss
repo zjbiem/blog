@@ -55,6 +55,18 @@
             -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.04);
             box-shadow: 0 1px 4px rgba(0,0,0,.04)
           }
+          p {
+            font-family: Merriweather-Light,
+            -apple-system,
+            Verdana,
+            "PingFang SC",
+            "Helvetica Neue",
+            Arial,
+            "Hiragino Sans GB",
+            "Microsoft YaHei",
+            "WenQuanYi Micro Hei",
+            sans-serif
+          }
         }
         .read-all {
           text-align: right;
@@ -92,6 +104,30 @@
       .side {
         margin-bottom: 20px;
         padding-bottom: 0;
+        .tags-cloud {
+          font-family: Merriweather-Light,
+          -apple-system,
+          Verdana,
+          "PingFang SC",
+          "Helvetica Neue",
+          Arial,
+          "Hiragino Sans GB",
+          "Microsoft YaHei",
+          "WenQuanYi Micro Hei",
+          sans-serif;
+        }
+        > div {
+          font-family: Merriweather-Light,
+          -apple-system,
+          Verdana,
+          "PingFang SC",
+          "Helvetica Neue",
+          Arial,
+          "Hiragino Sans GB",
+          "Microsoft YaHei",
+          "WenQuanYi Micro Hei",
+          sans-serif;
+        }
         i {
           margin-right: 3px;
         }

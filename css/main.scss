@@ -3,6 +3,17 @@
 ---
 
 @charset "utf-8"; //
+/** Font **/
+
+@font-face {
+  font-family: "Merriweather";
+  src: url("/css/fonts/Merriweather-Black.ttf");
+}
+
+@font-face {
+  font-family: "Merriweather-Light";
+  src: url("/css/fonts/Merriweather-Light.ttf");
+}
 //
 //
 // // Our variables
