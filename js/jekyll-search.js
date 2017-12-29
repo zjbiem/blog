@@ -407,8 +407,12 @@
 
                     }
                 })
+                // 搜索框失去焦点事件
                 options.searchInput.addEventListener('blur', function (e) {
-                    // toggleResultsContainer('none')
+                    document.onclick = function() {
+                        options.searchInput.value = '';
+                        toggleResultsContainer('none')
+                    }
                 })
             }
 
