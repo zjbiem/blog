@@ -25,7 +25,8 @@
             s.parentNode.insertBefore(hm, s);
         })();
     </script>
-    {% endif %} {% if site.google_analytics_id %}
+    {% endif %}
+    {% if site.google_analytics_id %}
     <script>
         // google analytics w
         (function (i, s, o, g, r, a, m) {
@@ -43,7 +44,8 @@
         ga('create', '{{site.google_analytics_id}}', 'auto');
         ga('send', 'pageview');
     </script>
-    {% endif %} {% if page.mathjax %}
+    {% endif %}
+    {% if page.mathjax %}
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({ tex2jax: { inlineMath: [["$","$"],["\\(","\\)"]] }, "HTML-CSS": { linebreaks: { automatic: true, width:
         "container" } } });
