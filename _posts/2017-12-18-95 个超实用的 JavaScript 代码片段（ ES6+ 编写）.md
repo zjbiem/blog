@@ -693,7 +693,7 @@ arr.reduce((acc, val)  => acc.concat(Math.pow(val - mean,  2)),  [])
 
 ### Speech synthesis (语音合成，实验阶段)
 
-使用 `SpeechSynthesisUtterance.voice` 和 `indow.speechSynthesis.getVoices()` 将消息转换为语音。使用 `window.speechSynthesis.speak()` 播放消息。
+使用 `SpeechSynthesisUtterance.voice` 和 <br> `window.speechSynthesis.getVoices()` 将消息转换为语音。使用 `window.speechSynthesis.speak()` 播放消息。
 
 了解有关[Web Speech API的SpeechSynthesisUtterance接口](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance)的更多信息。
 

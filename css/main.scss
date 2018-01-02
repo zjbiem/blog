@@ -79,7 +79,9 @@ h4, h5, h6 {
   font-size: 1em;
   margin: 1em 0;
 }
-
+table {
+  word-break: break-all; // 强制英文换行，防止移动端超出范围
+}
 // 两个人在列车上相遇
 // 一段旅程充满了诗意
 // 你突然说你要下车

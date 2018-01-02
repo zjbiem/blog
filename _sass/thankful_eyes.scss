@@ -1,6 +1,9 @@
 pre {
   overflow-x: auto;
 }
+code {
+  word-break: break-all; // 强制英文换行，防止移动端超出范围
+}
 code.highlighter-rouge {
   padding: 2px 4px;
   color: #fff;
