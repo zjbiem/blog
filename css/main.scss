@@ -57,7 +57,17 @@ $on-laptop: 800px;
  * variables
  */
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "reset", "header", "post", "page", "thankful_eyes", "index", "demo", "footer", "scrollbar", "backToTop", "searchBox";
+@import "reset",
+"header",
+"post",
+"page",
+"rouge/github.scss",
+"index",
+"demo",
+"footer",
+"scrollbar",
+"backToTop",
+"searchBox";
 
 h1 {
   font-weight: 400;

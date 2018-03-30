@@ -1,3 +1,22 @@
+pre {
+  overflow-x: auto;
+  margin: 0;
+  line-height: 24px;
+}
+code {
+  word-break: break-all; // 强制英文换行，防止移动端超出范围
+}
+code.highlighter-rouge {
+  padding: 2px 4px;
+  color: #fff;
+  background: #959da5;
+  border-radius: 3px;
+  font-size: 13px
+}
+div.highlight {
+  border-radius: 3px;
+  padding: 20px;
+}
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight {
