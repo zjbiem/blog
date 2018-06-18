@@ -194,23 +194,6 @@ type: page
 
 * [JS前端开发群月报 -豪情等人维护](http://www.kancloud.cn/jsfront/month/82796)
 
-## 交互设计相关
-
-- [Framer](https://framerjs.com/)
-
-    Design the impossible with Framer
-
-- [FLINTO](https://www.flinto.com/)
-
-    App Prototyping Tools for Designers
-
-- [Principle](http://principleformac.com/)
-
-    Animate Your Ideas, Design Better Apps
-
-- [https://gyrosco.pe/](https://gyrosco.pe/)
-
-    首页的卡片翻动效果非常赞。
 
 ## Comments
 
