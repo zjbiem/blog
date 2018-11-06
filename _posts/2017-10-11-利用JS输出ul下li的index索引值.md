@@ -8,7 +8,7 @@ tags:
 ---
 * content
 {:toc}
-<div class="postImg" style="background-image:url(http://ovl1kjv88.bkt.clouddn.com/media/logoOg.png)"></div>
+<div class="postImg" style="background-image:url(https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/logoOg.png)"></div>
 原生JavaScript实现index
 
 

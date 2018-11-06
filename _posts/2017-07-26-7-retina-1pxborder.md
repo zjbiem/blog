@@ -7,7 +7,7 @@ tags: JavaScript Retina 移动前端 CSS border
 ---
 * content
 {:toc}
-<div class="postImg" style="background-image:url(http://ovl1kjv88.bkt.clouddn.com/media/1pximage.jpeg)"></div>
+<div class="postImg" style="background-image:url(https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/1pximage.jpeg)"></div>
 
 在之前的项目中，UI告诉我说我们移动项目中的边框全部都变粗了。原谅我的近视眼，为什么我看不出什么差距了，结果UI把他的设计稿跟我的屏幕截图跟我看，居然真的不一样！！！
 没有办法，只有在后面的版本中去修改了，但是要改的话，需要知道是为什么。所以查了很多资料，终于搞懂了这个问题，并且总结了几种方法。
@@ -32,7 +32,7 @@ hairlines”（retina 极细的线）：在retina屏上仅仅显示1物理像素
 他们曾介绍到 iOS 8 和 OS X Yosemite 即将支持 0.5px 的边框：
 
 
-![](http://ovl1kjv88.bkt.clouddn.com/media/15012098142792.jpg)
+![](https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/15012098142792.jpg)
 
 
 额的神呐！so easy! 果真如此吗？
@@ -78,7 +78,7 @@ if (testElem.offsetHeight == 1) {
 ### 2、使用border-image实现
 
 准备一张符合你要求的border-image：
-![](http://ovl1kjv88.bkt.clouddn.com/media/15012098291614.jpg)
+![](https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/15012098291614.jpg)
 
 
 
@@ -92,7 +92,7 @@ if (testElem.offsetHeight == 1) {
 ```
 
 上文是把border设置在边框的底部，所以使用的图片是2px高，上部的1px颜色为透明，下部的1px使用视觉规定的border的颜色。如果边框底部和顶部同时需要border，可以使用下面的border-image：
-![](http://ovl1kjv88.bkt.clouddn.com/media/15012098395005.png)
+![](https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/15012098395005.png)
 
 
 

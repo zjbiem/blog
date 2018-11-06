@@ -7,7 +7,7 @@ tags: GitHub fork
 ---
 * content
 {:toc}
-<div class="postImg" style="background-image:url(http://ovl1kjv88.bkt.clouddn.com/media/github-logo.png)"></div>
+<div class="postImg" style="background-image:url(https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/github-logo.png)"></div>
 
 github上fork了别人的项目后，再同步更新别人的提交
 
@@ -21,7 +21,7 @@ github上fork了别人的项目后，再同步更新别人的提交
 ### 2. 点击new pull request创建。
 
 
-![](http://ovl1kjv88.bkt.clouddn.com/media/15012096825773.png)
+![](https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/15012096825773.png)
 
 
 ### 3.选择base fork
@@ -29,11 +29,11 @@ github上fork了别人的项目后，再同步更新别人的提交
 ### 4.选择head fork
 
 ### 5.点击Create pull request，并填写创建信息。
-![](http://ovl1kjv88.bkt.clouddn.com/media/15012096994606.png)
-![](http://ovl1kjv88.bkt.clouddn.com/media/15012097059876.png)
+![](https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/15012096994606.png)
+![](https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/15012097059876.png)
 
 ### 6.点击Merge pull request 合并从源fork来的代码。
-![](http://ovl1kjv88.bkt.clouddn.com/media/15012097289236.png)
+![](https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/15012097289236.png)
 
 
 ### 7.完成。
@@ -49,9 +49,9 @@ git fetch upstream
 git merge upstream/master
 git push 
 ```
-![](http://ovl1kjv88.bkt.clouddn.com/media/15012097709892.jpg)
-![](http://ovl1kjv88.bkt.clouddn.com/media/15012097803958.jpg)
-![](http://ovl1kjv88.bkt.clouddn.com/media/15012097890762.jpg)
+![](https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/15012097709892.jpg)
+![](https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/15012097803958.jpg)
+![](https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/15012097890762.jpg)
 
 
 

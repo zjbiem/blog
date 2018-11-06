@@ -6,7 +6,7 @@ description: some word here
 ---
 * content
 {:toc}
-<div class="postImg" style="background-image:url(http://ovl1kjv88.bkt.clouddn.com/media/linux-vi1.jpg)"></div>
+<div class="postImg" style="background-image:url(https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/linux-vi1.jpg)"></div>
 Linux发行版系统上都会默认内置vi编辑器，非常通用。很多软件的编辑接口都会默认调用vi；vi具有程序编辑的能力；vi程序简单，编辑速度相当快速。
 
 
@@ -23,7 +23,7 @@ Linux发行版系统上都会默认内置vi编辑器，非常通用。很多软�
 
 一张图来说明一下，简洁明了：
 
-![](http://ovl1kjv88.bkt.clouddn.com/media/760572-20171029221448898-3300940.png)
+![](https://likonion-1254082995.cos.ap-chengdu.myqcloud.com/media/760572-20171029221448898-3300940.png)
 
 ## vi的启动和退出
 
