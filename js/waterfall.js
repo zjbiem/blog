@@ -37,7 +37,7 @@
     }, {
       demo_link: 'http://likonion.club/kendoui-demo/',
       img_link: 
-      'http://ovl1kjv88.bkt.clouddn.com/media/Snipaste_2017-12-29_16-51-11.png',
+      'https://github.com/likonion/kendoui-demo/raw/master/Snipaste_2017-12-29_16-51-11.png',
       code_link: 'https://github.com/likonion/kendoui-demo',
       title: 'kendoui-demo',
       core_tech: 'kendoui',
