@@ -29,12 +29,25 @@ description_footer: 本站记录我前端之旅的沿途风景！
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 # disqus_shortname: likonion
-gitment:
+# gitment:
+#     owner: likonion
+#     repo: blog-comment
+#     oauth:
+#         client_id: e8a59aafd9ef5ed8c771
+#         client_secret: 85e7a933a5d407259cd16545fa4f9af716025254
+
+# Netease settings
+netease_comment: false
+# 添加这个就行,上面的只是为了你能方便找到地方
+gitalk:
+    enable: true
     owner: likonion
     repo: blog-comment
-    oauth:
-        client_id: e8a59aafd9ef5ed8c771
-        client_secret: 85e7a933a5d407259cd16545fa4f9af716025254
+    clientID: e8a59aafd9ef5ed8c771
+    clientSecret: 85e7a933a5d407259cd16545fa4f9af716025254
+    admin: likonion
+
+
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
