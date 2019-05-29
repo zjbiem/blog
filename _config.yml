@@ -36,15 +36,12 @@ description_footer: 本站记录我前端之旅的沿途风景！
 #         client_id: e8a59aafd9ef5ed8c771
 #         client_secret: 85e7a933a5d407259cd16545fa4f9af716025254
 
-# Netease settings
-netease_comment: false
-# 添加这个就行,上面的只是为了你能方便找到地方
 gitalk:
     enable: true
     owner: likonion
-    repo: blog-comment
-    clientID: e8a59aafd9ef5ed8c771
-    clientSecret: 85e7a933a5d407259cd16545fa4f9af716025254
+    repo: gitalk
+    clientID: 6e96a0dfc7aa97398b94
+    clientSecret: 35500dc037d7fb79ee1ccc6989405e2bbfaab2eb
     admin: likonion
 
 
