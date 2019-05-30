@@ -36,13 +36,15 @@ description_footer: 本站记录我前端之旅的沿途风景！
 #         client_id: e8a59aafd9ef5ed8c771
 #         client_secret: 85e7a933a5d407259cd16545fa4f9af716025254
 
-gitalk:
-    enable: true
-    owner: likonion
-    repo: gitalk
-    clientID: 6e96a0dfc7aa97398b94
-    clientSecret: 35500dc037d7fb79ee1ccc6989405e2bbfaab2eb
-    admin: likonion
+intensedebate_comments: true
+
+# gitalk:
+#     enable: true
+#     owner: likonion
+#     repo: gitalk
+#     clientID: 6e96a0dfc7aa97398b94
+#     clientSecret: 35500dc037d7fb79ee1ccc6989405e2bbfaab2eb
+#     admin: ['likonion']
 
 
 # statistic analysis 统计代码
