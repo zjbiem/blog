@@ -9,7 +9,7 @@
 title: 文阁style
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://likonion.club" # the base hostname & protocol for your site
+url: "http://vincentzhang.site" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
