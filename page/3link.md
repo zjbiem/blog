@@ -197,6 +197,6 @@ type: page
 
 ## Comments
 
-{% include comments.html %}33
+{% include comments.html %}
 
 

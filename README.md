@@ -175,7 +175,7 @@ gem install jekyll
 
 ```yml
 # Site settings
-title: 文阁style
+title: 文中文
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://likonion.club" # the base hostname & protocol for your site
