@@ -178,7 +178,7 @@ gem install jekyll
 title: 文中文
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://likonion.club" # the base hostname & protocol for your site
+url: "http://vincentzhang.site" # the base hostname & protocol for your site
 ```
 
 #### 链接信息

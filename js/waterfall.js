@@ -14,28 +14,28 @@
      */
   var demoContent = [
     {
-      demo_link: 'http://likonion.club/vux-demo/dist/index.html#/',
+      demo_link: 'http://vincentzhang.site/vux-demo/dist/index.html#/',
       img_link: 'https://github.com/likonion/vux-demo/raw/master/static/QQ20170803-164135.png',
       code_link: 'https://github.com/likonion/vux-demo.git',
       title: 'vux-demo',
       core_tech: 'VUE VUX',
       description: '基于VUE构建，VUE UI控件的使用'
     }, {
-      demo_link: 'http://likonion.club/chatDefault/dist/index.html#/',
+      demo_link: 'http://vincentzhang.site/chatDefault/dist/index.html#/',
       img_link: 'https://github.com/likonion/chatDefault/raw/master/static/default.png',
       code_link: 'https://github.com/likonion/chatDefault.git',
       title: 'chatDefault',
       core_tech: 'vue2 + vuex + vue-router + webpack + ES6/7 + mockjs + sass',
       description: '基于VUE的一个客服界面演示，练习'
     }, {
-      demo_link: 'http://likonion.club/xmair_zhizhuang_mobile/dist/index.html#/index',
+      demo_link: 'http://vincentzhang.site/xmair_zhizhuang_mobile/dist/index.html#/index',
       img_link: 'https://raw.githubusercontent.com/likonion/xmair_zhizhuang_mobile/master/static/IMG_DED19AF17548-1.jpeg',
       code_link: 'https://github.com/likonion/xmair_zhizhuang_mobile',
       title: '制装劳保移动端界面',
       core_tech: 'VUE VUX',
       description: '制装劳保移动端界面'
     }, {
-      demo_link: 'http://likonion.club/kendoui-demo/',
+      demo_link: 'http://vincentzhang.site/kendoui-demo/',
       img_link: 
       'https://github.com/likonion/kendoui-demo/raw/master/Snipaste_2017-12-29_16-51-11.png',
       code_link: 'https://github.com/likonion/kendoui-demo',
