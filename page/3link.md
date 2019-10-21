@@ -19,7 +19,7 @@ type: page
 * [小火柴的蓝色理想](http://www.cnblogs.com/xiaohuochai/)
 
 ## 临时页面
-* [厨师中级复习题库（324）](../html-pages/厨师中级复习题库（324）.html)
+* [厨师中级复习题库（324）](http://vincentzhang.site/js-library-demo/html-pages/1027中式烹调师中级复习材料(1).html)
 ## 工具
 
 
