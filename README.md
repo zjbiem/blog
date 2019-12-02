@@ -267,16 +267,13 @@ jekyll s
 显示
 
 ```
-Configuration file: E:/GitWorkSpace/blog/_config.yml
-            Source: E:/GitWorkSpace/blog
-       Destination: E:/GitWorkSpace/blog/_site
+Configuration file: /Users/vincentzhang/github-repositories/likonion.github.io/_config.yml
+            Source: /Users/vincentzhang/github-repositories/likonion.github.io
+       Destination: /Users/vincentzhang/github-repositories/likonion.github.io/_site
  Incremental build: disabled. Enable with --incremental
-      Generating...
-                    done in 6.33 seconds.
-  Please add the following to your Gemfile to avoid polling for changes:
-    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
- Auto-regeneration: enabled for 'E:/GitWorkSpace/blog'
-Configuration file: E:/GitWorkSpace/blog/_config.yml
+      Generating... 
+                    done in 3.061 seconds.
+ Auto-regeneration: enabled for '/Users/vincentzhang/github-repositories/likonion.github.io'
     Server address: http://127.0.0.1:4000/
   Server running... press ctrl-c to stop.
 ```
