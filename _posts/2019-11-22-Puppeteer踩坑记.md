@@ -37,6 +37,18 @@ for (let i = 0; i < 30; i++) {
 }
 ```
 
+```js
+const get = new Promise(res =>
+    page.on('response', async (res_i) => {
+        if (res_i.url() === url' && res_i.status() === 200) {
+            res(await res_i.text());
+        }
+    })
+)
+await page.goto(url);
+let getData = await Promise.race([get, page.waitFor(15000)]);
+```
+
 ### 设置页面中执行方法返回的 Promise 值
 
 ```js
