@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 文森特
+title: 张先生
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://vincentzhang.site" # the base hostname & protocol for your site
+url: "http://zjbiem.site" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -17,7 +17,7 @@ permalink: /:year/:month/:day/:title/
 twitter_username: likonion
 facebook_username:
 github_username:  likonion
-email: likonion@outlook.com
+email: zjbiem@qq.com
 weibo_username:
 zhihu_username:
 linkedIn_username:
@@ -28,9 +28,9 @@ description_footer: 本站记录我前端之旅的沿途风景！
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-# disqus_shortname: likonion
+# disqus_shortname: zjbiem
 # gitment:
-#     owner: likonion
+#     owner: zjbiem
 #     repo: blog-comment
 #     oauth:
 #         client_id: e8a59aafd9ef5ed8c771
