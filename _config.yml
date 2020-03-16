@@ -49,7 +49,7 @@ intensedebate_comments: true
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
-hm.src = "//hm.baidu.com/hm.js?a9eac056f9f605b17a33df149d99144c";
+#hm.src = "https://hm.baidu.com/hm.js?a9eac056f9f605b17a33df149d99144c";
 # xxxxx字符串
 baidu_tongji_id: a9eac056f9f605b17a33df149d99144c
 # google_analytics_id: #UA-72449510-4 # google 分析追踪id
