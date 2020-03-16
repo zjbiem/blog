@@ -8,15 +8,15 @@
 # Site settings
 title: 张先生
 brief-intro: Front-end Dev Engineer
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog"
 url: "http://zjbiem.site" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: likonion
+twitter_username: zjbiem
 facebook_username:
-github_username:  likonion
+github_username:  zjbiem
 email: zjbiem@qq.com
 weibo_username:
 zhihu_username:
@@ -28,7 +28,7 @@ description_footer: 本站记录我前端之旅的沿途风景！
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-# disqus_shortname: zjbiem
+disqus_shortname: zjbiem
 # gitment:
 #     owner: zjbiem
 #     repo: blog-comment
@@ -49,9 +49,9 @@ intensedebate_comments: true
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
-# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+hm.src = "//hm.baidu.com/hm.js?a9eac056f9f605b17a33df149d99144c";
 # xxxxx字符串
-# baidu_tongji_id: e97bb9f772cfaaa317ebc4f7e581d6f1
+baidu_tongji_id: a9eac056f9f605b17a33df149d99144c
 # google_analytics_id: #UA-72449510-4 # google 分析追踪id
 
 
